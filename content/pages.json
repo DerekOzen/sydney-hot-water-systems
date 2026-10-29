@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/cart",
+    "type": "page",
+    "title": "Sydney Hot Water Cart Inline",
+    "seoTitle": "Sydney Hot Water Cart Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T08:23:16.058Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-2",
+    "path": "/checkout",
+    "type": "page",
+    "title": "Sydney Hot Water Checkout Inline",
+    "seoTitle": "Sydney Hot Water Checkout Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T08:23:16.058Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-3",
+    "path": "/sydney-hot-water-home-v9-inline",
+    "type": "page",
+    "title": "Sydney Hot Water Home V9 Inline",
+    "seoTitle": "Sydney Hot Water Home V9 Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T08:23:16.058Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-4",
+    "path": "/sydney-hot-water-rinnai-b26-inline",
+    "type": "page",
+    "title": "Sydney Hot Water Rinnai B26 Inline",
+    "seoTitle": "Sydney Hot Water Rinnai B26 Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T08:23:16.058Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedBy": "joshua"
+  }
+]
