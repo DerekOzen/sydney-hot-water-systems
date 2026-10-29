@@ -9,11 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-29T07:40:21.578Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T07:40:43.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T08:16:38.440Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-2",
@@ -25,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-29T07:40:21.578Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T07:40:43.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T08:16:38.440Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-3",
@@ -41,12 +43,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-29T07:40:21.578Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T07:40:58.829Z",
+    "updatedAt": "2026-10-29T08:16:38.440Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -58,10 +60,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-29T07:40:21.578Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T07:40:43.515Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T08:16:38.440Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
