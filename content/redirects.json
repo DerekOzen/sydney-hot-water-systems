@@ -1,5 +1,19 @@
 [
   {
+    "from": "/product-category/infinity",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T10:57:39.434Z",
+    "fromRaw": "/product-category/infinity"
+  },
+  {
+    "from": "/shop",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T10:57:39.434Z",
+    "fromRaw": "/shop"
+  },
+  {
     "from": "/sydney-hot-water-rinnai-b26-inline",
     "to": "/",
     "code": 301,
