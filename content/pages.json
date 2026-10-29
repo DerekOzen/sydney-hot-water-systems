@@ -17,23 +17,6 @@
     "isHome": true
   },
   {
-    "id": "pg-2",
-    "path": "/product/rinnai-infinity-b26-continuous-flow-gas-hot-water-system-50-degree",
-    "type": "page",
-    "title": "Sydney Hot Water Rinnai B26 Inline",
-    "seoTitle": "Sydney Hot Water Rinnai B26 Inline",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-5",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "createdAt": "2026-10-29T05:44:35.202Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-10-29T06:12:11.006Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-4",
     "path": "/sydney-hot-water-rinnai-b26-inline",
     "type": "page",
