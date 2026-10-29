@@ -15,5 +15,21 @@
     "updatedAt": "2026-10-29T03:53:38.163Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/sydney-hot-water-home-v9-inline",
+    "type": "page",
+    "title": "Sydney Hot Water Home V9 Inline",
+    "seoTitle": "Sydney Hot Water Home V9 Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T04:12:23.938Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T04:12:23.938Z",
+    "updatedBy": "joshua"
   }
 ]
