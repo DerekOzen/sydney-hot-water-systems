@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/sydney-hot-water-home-v8",
+    "type": "page",
+    "title": "Hot Water Systems Sydney | Supply, Installation & Repairs",
+    "seoTitle": "Hot Water Systems Sydney | Supply, Installation & Repairs",
+    "seoDescription": "Sydney Hot Water Systems supplies and installs gas, electric, solar and heat pump hot water systems, and repairs and replaces them across Sydney. Request a quote on 1300 096 668.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-29T03:13:37.780Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T03:13:37.780Z",
+    "updatedBy": "joshua"
+  }
+]
