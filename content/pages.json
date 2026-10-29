@@ -63,5 +63,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-29T08:24:00.470Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-5",
+    "path": "/sydney-hot-water-repairs-inline",
+    "type": "service",
+    "title": "Sydney Hot Water Repairs Inline",
+    "seoTitle": "Sydney Hot Water Repairs Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T09:23:48.703Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T09:23:48.703Z",
+    "updatedBy": "joshua"
   }
 ]
