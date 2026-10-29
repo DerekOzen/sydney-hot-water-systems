@@ -111,5 +111,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-29T10:59:13.443Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-8",
+    "path": "/sydney-hot-water-repairs-parramatta-inline",
+    "type": "location",
+    "title": "Sydney Hot Water Repairs Parramatta Inline",
+    "seoTitle": "Sydney Hot Water Repairs Parramatta Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T12:07:40.225Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T12:07:40.225Z",
+    "updatedBy": "joshua"
   }
 ]
