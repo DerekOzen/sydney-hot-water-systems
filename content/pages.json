@@ -90,11 +90,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-29T10:46:20.719Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T10:46:42.388Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T10:57:16.755Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -106,10 +107,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-29T10:50:02.770Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T10:52:50.964Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T10:57:16.755Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
