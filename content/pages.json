@@ -31,5 +31,37 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-29T06:59:00.410Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-4",
+    "path": "/checkout",
+    "type": "page",
+    "title": "Sydney Hot Water Checkout Inline",
+    "seoTitle": "Sydney Hot Water Checkout Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T07:16:50.038Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T07:16:50.038Z",
+    "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-6",
+    "path": "/cart",
+    "type": "page",
+    "title": "Sydney Hot Water Cart Inline",
+    "seoTitle": "Sydney Hot Water Cart Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-3",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T07:16:50.038Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T07:16:50.038Z",
+    "updatedBy": "joshua"
   }
 ]
