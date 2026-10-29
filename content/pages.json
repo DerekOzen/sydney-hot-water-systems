@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/",
+    "path": "/hot-water-systems-sydney-supply-installation-repairs",
     "type": "page",
     "title": "Hot Water Systems Sydney | Supply, Installation & Repairs",
     "seoTitle": "Hot Water Systems Sydney | Supply, Installation & Repairs",
@@ -12,13 +12,13 @@
     "status": "published",
     "createdAt": "2026-10-29T03:13:37.780Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T03:53:38.163Z",
+    "updatedAt": "2026-10-29T04:12:56.494Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-2",
-    "path": "/sydney-hot-water-home-v9-inline",
+    "path": "/",
     "type": "page",
     "title": "Sydney Hot Water Home V9 Inline",
     "seoTitle": "Sydney Hot Water Home V9 Inline",
@@ -26,10 +26,11 @@
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-29T04:12:23.938Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T04:12:23.938Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T04:12:56.494Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
