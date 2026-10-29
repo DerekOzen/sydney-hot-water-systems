@@ -9,10 +9,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-29T08:23:16.058Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedAt": "2026-10-29T08:24:00.470Z",
     "updatedBy": "joshua"
   },
   {
@@ -25,10 +25,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-29T08:23:16.058Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedAt": "2026-10-29T08:24:00.470Z",
     "updatedBy": "joshua"
   },
   {
@@ -58,10 +58,10 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-29T08:23:16.058Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T08:23:16.058Z",
+    "updatedAt": "2026-10-29T08:24:00.470Z",
     "updatedBy": "joshua"
   }
 ]
