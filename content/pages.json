@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-2",
-    "path": "/",
+    "path": "/sydney-hot-water-home-v9-inline-2",
     "type": "page",
     "title": "Sydney Hot Water Home V9 Inline",
     "seoTitle": "Sydney Hot Water Home V9 Inline",
@@ -12,13 +12,13 @@
     "status": "published",
     "createdAt": "2026-10-29T04:12:23.938Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T04:12:56.494Z",
+    "updatedAt": "2026-10-29T05:06:55.709Z",
     "updatedBy": "joshua",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-3",
-    "path": "/sydney-hot-water-home-v9-inline",
+    "path": "/",
     "type": "page",
     "title": "Sydney Hot Water Home V9 Inline",
     "seoTitle": "Sydney Hot Water Home V9 Inline",
@@ -26,10 +26,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-29T05:06:29.421Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T05:06:29.421Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T05:06:55.709Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
