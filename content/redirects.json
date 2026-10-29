@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "from": "/sydney-hot-water-rinnai-b26-inline",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T09:37:35.944Z",
+    "fromRaw": "/sydney-hot-water-rinnai-b26-inline"
+  },
+  {
+    "from": "/checkout",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T09:37:35.944Z",
+    "fromRaw": "/checkout"
+  },
+  {
+    "from": "/cart",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T09:37:35.944Z",
+    "fromRaw": "/cart"
+  }
+]
