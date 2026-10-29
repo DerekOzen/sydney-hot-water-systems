@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "from": "/services/hot-water-repairs",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T09:33:36.908Z",
+    "fromRaw": "/services/hot-water-repairs"
+  }
+]
