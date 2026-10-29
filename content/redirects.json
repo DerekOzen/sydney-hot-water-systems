@@ -1,5 +1,12 @@
 [
   {
+    "from": "/sydney-hot-water-home-v9-inline-2",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T05:11:58.440Z",
+    "fromRaw": "/sydney-hot-water-home-v9-inline-2"
+  },
+  {
     "from": "/hot-water-systems-sydney-supply-installation-repairs",
     "to": "/",
     "code": 301,
