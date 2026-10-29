@@ -79,5 +79,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-29T09:40:01.308Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-6",
+    "path": "/shop",
+    "type": "page",
+    "title": "Sydney Hot Water Shop Inline",
+    "seoTitle": "Sydney Hot Water Shop Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T10:46:20.719Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T10:46:20.719Z",
+    "updatedBy": "joshua"
   }
 ]
