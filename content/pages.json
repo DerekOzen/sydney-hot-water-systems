@@ -15,5 +15,21 @@
     "updatedAt": "2026-10-29T05:11:38.490Z",
     "updatedBy": "joshua",
     "isHome": true
+  },
+  {
+    "id": "pg-2",
+    "path": "/sydney-hot-water-rinnai-b26-inline",
+    "type": "page",
+    "title": "Sydney Hot Water Rinnai B26 Inline",
+    "seoTitle": "Sydney Hot Water Rinnai B26 Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-5",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T05:44:35.202Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T05:44:35.202Z",
+    "updatedBy": "joshua"
   }
 ]
