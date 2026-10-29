@@ -1,7 +1,7 @@
 [
   {
     "id": "pg-1",
-    "path": "/sydney-hot-water-home-v8",
+    "path": "/",
     "type": "page",
     "title": "Hot Water Systems Sydney | Supply, Installation & Repairs",
     "seoTitle": "Hot Water Systems Sydney | Supply, Installation & Repairs",
@@ -9,10 +9,11 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-10-29T03:13:37.780Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-29T03:13:37.780Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-29T03:14:03.810Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
