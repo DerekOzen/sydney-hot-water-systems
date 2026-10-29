@@ -95,5 +95,21 @@
     "createdBy": "joshua",
     "updatedAt": "2026-10-29T10:46:42.388Z",
     "updatedBy": "joshua"
+  },
+  {
+    "id": "pg-7",
+    "path": "/sydney-hot-water-rinnai-infinity-inline",
+    "type": "page",
+    "title": "Sydney Hot Water Rinnai Infinity Inline",
+    "seoTitle": "Sydney Hot Water Rinnai Infinity Inline",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-10-29T10:50:02.770Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-29T10:50:02.770Z",
+    "updatedBy": "joshua"
   }
 ]
