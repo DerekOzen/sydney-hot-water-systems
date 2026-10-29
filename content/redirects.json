@@ -1,5 +1,12 @@
 [
   {
+    "from": "/sydney-hot-water-rinnai-b26-inline",
+    "to": "/",
+    "code": 301,
+    "at": "2026-10-29T07:00:19.507Z",
+    "fromRaw": "/sydney-hot-water-rinnai-b26-inline"
+  },
+  {
     "from": "/product/rinnai-infinity-b26-continuous-flow-gas-hot-water-system-50-degree",
     "to": "/",
     "code": 301,
