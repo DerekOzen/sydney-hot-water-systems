@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/home",
+    "type": "page",
+    "title": "Home",
+    "seoTitle": "Hot Water Systems Sydney | Supply, Install, Repair & Replace",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "updatedAt": "2026-11-09T06:58:47.406Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-09T06:58:47.406Z",
+    "createdBy": "derek"
+  }
+]
