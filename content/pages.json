@@ -124,11 +124,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-09T11:36:35.887Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T11:36:35.887Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-09T11:39:10.604Z",
+    "updatedBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-9",
