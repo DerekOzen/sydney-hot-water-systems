@@ -161,8 +161,9 @@
     "status": "published",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T20:27:28.928Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-09T20:31:04.032Z",
+    "updatedBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-11",
