@@ -388,12 +388,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T22:21:26.435Z",
-    "updatedBy": "derek",
-    "category": "Problem Solution"
+    "updatedAt": "2026-11-09T20:45:31.073Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-25",
@@ -421,11 +420,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T20:45:31.073Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-09T22:21:33.553Z",
+    "updatedBy": "derek",
+    "category": "Problem Solution"
   },
   {
     "id": "pg-27",
