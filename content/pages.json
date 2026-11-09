@@ -116,7 +116,7 @@
   },
   {
     "id": "pg-8",
-    "path": "/hot-water-system-replacement",
+    "path": "/services/hot-water-system-replacement",
     "type": "page",
     "title": "Hot Water System Replacement Sydney | Cost & Same-Day Swap",
     "seoTitle": "Hot Water System Replacement Sydney | Cost & Same-Day Swap",
@@ -124,11 +124,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T11:52:35.254Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-09T20:28:44.205Z",
+    "updatedBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-9",
