@@ -15,22 +15,5 @@
     "createdAt": "2026-11-09T07:13:30.411Z",
     "createdBy": "derek",
     "isHome": true
-  },
-  {
-    "id": "pg-2",
-    "path": "/hot-water-servicing",
-    "type": "service",
-    "title": "Hot Water Servicing",
-    "seoTitle": "Hot Water System Servicing & Maintenance Sydney | Anode & Valve Checks",
-    "seoDescription": "",
-    "layout": "mockup",
-    "headerPartId": "header-2",
-    "footerPartId": "footer-2",
-    "status": "deleted",
-    "updatedAt": "2026-11-09T11:51:49.367Z",
-    "updatedBy": "derek",
-    "createdAt": "2026-11-09T11:47:47.433Z",
-    "createdBy": "derek",
-    "isHome": false
   }
 ]
