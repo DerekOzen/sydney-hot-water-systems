@@ -576,11 +576,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-09T22:26:47.224Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T22:26:47.224Z",
+    "updatedAt": "2026-11-09T22:29:13.582Z",
     "updatedBy": "derek"
   },
   {
