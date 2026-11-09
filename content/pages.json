@@ -392,8 +392,9 @@
     "status": "published",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T22:22:40.340Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-09T22:22:52.079Z",
+    "updatedBy": "derek",
+    "category": "Problem Solution"
   },
   {
     "id": "pg-25",
