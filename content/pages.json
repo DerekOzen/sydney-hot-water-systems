@@ -66,7 +66,7 @@
   },
   {
     "id": "pg-5",
-    "path": "/hot-water-installation",
+    "path": "/services/hot-water-installation",
     "type": "page",
     "title": "Hot Water Installation Sydney | Supply, Install & Cost",
     "seoTitle": "Hot Water Installation Sydney | Supply, Install & Cost",
@@ -74,11 +74,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T11:52:35.254Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-09T20:28:12.643Z",
+    "updatedBy": "derek",
+    "category": "Services"
   },
   {
     "id": "pg-6",
