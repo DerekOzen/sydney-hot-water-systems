@@ -74,12 +74,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:36:35.887Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T11:38:28.803Z",
+    "updatedAt": "2026-11-09T11:46:50.895Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-6",
@@ -91,12 +92,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:36:35.887Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T11:39:07.521Z",
+    "updatedAt": "2026-11-09T11:46:50.895Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -108,12 +110,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:36:35.887Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T11:39:03.378Z",
+    "updatedAt": "2026-11-09T11:46:50.895Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-8",
