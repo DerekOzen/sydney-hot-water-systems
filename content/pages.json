@@ -1215,11 +1215,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-10T20:30:37.841Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T23:28:48.273Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-76",
