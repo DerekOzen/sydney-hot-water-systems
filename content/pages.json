@@ -846,7 +846,7 @@
   },
   {
     "id": "pg-52",
-    "path": "/locations-nsw",
+    "path": "/locations/nsw",
     "type": "location",
     "title": "Hot Water Services Across NSW (Greater Sydney) | Sydney Hot Water Systems",
     "seoTitle": "Hot Water Services Across NSW (Greater Sydney) | Sydney Hot Water Systems",
@@ -854,10 +854,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-10T02:07:16.519Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T02:07:16.519Z",
+    "updatedAt": "2026-11-10T03:36:40.767Z",
     "updatedBy": "derek"
   },
   {
