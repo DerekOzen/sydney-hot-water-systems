@@ -1205,5 +1205,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-10T03:54:54.091Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-74",
+    "path": "/services/emergency-hot-water-repairs",
+    "type": "service",
+    "title": "Emergency Hot Water Repairs",
+    "seoTitle": "Emergency Hot Water Repairs Sydney | 24 Hour & After Hours | Sydney Hot Water Systems",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-10T04:31:57.187Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-10T04:31:57.187Z",
+    "createdBy": "derek"
   }
 ]
