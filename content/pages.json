@@ -1231,12 +1231,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T20:30:37.841Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T20:31:10.539Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T21:04:07.205Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-76",
