@@ -1237,5 +1237,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-10T20:31:10.539Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-76",
+    "path": "/shoppieess",
+    "type": "page",
+    "title": "SHOPPIEESS",
+    "seoTitle": "Hot Water Systems",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-10T21:02:51.701Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-10T21:02:51.701Z",
+    "createdBy": "derek"
   }
 ]
