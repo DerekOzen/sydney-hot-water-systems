@@ -1254,5 +1254,39 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-10T06:48:11.121Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-77",
+    "path": "/dux-26l-condensing-continuous-flow-water-heater-50-natural-gas",
+    "type": "product",
+    "title": "SHWS Product",
+    "seoTitle": "SHWS Product",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "category": "Product",
+    "createdAt": "2026-11-10T09:40:01.681Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-10T09:40:01.681Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-78",
+    "path": "/dux-26l-condensing-continuous-flow-water-heater-60-natural-gas",
+    "type": "product",
+    "title": "SHWS Product",
+    "seoTitle": "SHWS Product",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "category": "Product",
+    "createdAt": "2026-11-10T09:40:01.681Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-10T09:40:01.681Z",
+    "updatedBy": "derek"
   }
 ]
