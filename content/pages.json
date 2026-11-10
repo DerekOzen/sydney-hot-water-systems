@@ -1689,5 +1689,39 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-10T20:13:13.633Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-102",
+    "path": "/cart",
+    "type": "product",
+    "title": "Cart",
+    "seoTitle": "SHWS",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "category": "Product",
+    "createdAt": "2026-11-10T20:15:08.332Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-10T20:15:08.332Z",
+    "updatedBy": "derek"
+  },
+  {
+    "id": "pg-103",
+    "path": "/checkout",
+    "type": "product",
+    "title": "Checkout",
+    "seoTitle": "SHWS",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "category": "Product",
+    "createdAt": "2026-11-10T20:15:08.332Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-10T20:15:08.332Z",
+    "updatedBy": "derek"
   }
 ]
