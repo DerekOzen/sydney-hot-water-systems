@@ -1294,7 +1294,7 @@
   },
   {
     "id": "pg-79",
-    "path": "/thermaddff",
+    "path": "/product/thermann-6-26l-c-flow-60deg-n-g",
     "type": "product",
     "title": "THERMADdff",
     "seoTitle": "SHWS Product",
@@ -1303,8 +1303,8 @@
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
     "category": "Product",
-    "status": "draft",
-    "updatedAt": "2026-11-10T20:26:53.457Z",
+    "status": "published",
+    "updatedAt": "2026-11-10T20:27:32.824Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-10T20:26:53.457Z",
     "createdBy": "derek"
