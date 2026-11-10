@@ -1221,5 +1221,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-10T04:31:57.187Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-75",
+    "path": "/rinnai-infinity-b26",
+    "type": "page",
+    "title": "Rinnai Infinity B26",
+    "seoTitle": "SHWS Product",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-10T06:27:49.068Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-10T06:27:49.068Z",
+    "createdBy": "derek"
   }
 ]
