@@ -271,12 +271,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:39:20.440Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-09T20:42:42.966Z",
+    "updatedAt": "2026-11-10T19:21:09.851Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-18",
