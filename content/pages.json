@@ -1670,5 +1670,22 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-10T19:49:09.786Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-101",
+    "path": "/hot-water-systems",
+    "type": "product",
+    "title": "Hot Water Systems",
+    "seoTitle": "Hot Water Systems",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "category": "Product",
+    "status": "draft",
+    "updatedAt": "2026-11-10T20:13:13.633Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-10T20:13:13.633Z",
+    "createdBy": "derek"
   }
 ]
