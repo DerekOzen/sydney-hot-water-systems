@@ -926,7 +926,7 @@
   },
   {
     "id": "pg-57",
-    "path": "/region-north-shore",
+    "path": "/locations/nsw/hot-water-repairs-north-shore",
     "type": "location",
     "title": "Hot Water Systems in the North Shore — Repairs, Installation & Replacement | Sydney Hot Water Systems",
     "seoTitle": "Hot Water Systems in the North Shore — Repairs, Installation & Replacement | Sydney Hot Water Systems",
@@ -934,10 +934,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-10T02:07:16.519Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T02:07:16.519Z",
+    "updatedAt": "2026-11-10T03:38:56.150Z",
     "updatedBy": "derek"
   },
   {
