@@ -942,7 +942,7 @@
   },
   {
     "id": "pg-58",
-    "path": "/region-parramatta-cumberland",
+    "path": "/locations/nsw/hot-water-repairs-parramatta-cumberland",
     "type": "location",
     "title": "Hot Water Systems in Parramatta & Cumberland — Repairs, Installation & Replacement | Sydney Hot Water Systems",
     "seoTitle": "Hot Water Systems in Parramatta & Cumberland — Repairs, Installation & Replacement | Sydney Hot Water Systems",
@@ -950,10 +950,10 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-10T02:07:16.519Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T02:07:16.519Z",
+    "updatedAt": "2026-11-10T03:39:02.945Z",
     "updatedBy": "derek"
   },
   {
