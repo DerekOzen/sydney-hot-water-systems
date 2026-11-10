@@ -1232,12 +1232,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
-    "updatedAt": "2026-11-10T06:35:22.259Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-10T09:48:03.601Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-10T06:27:49.068Z",
     "createdBy": "derek",
-    "category": "Product"
+    "category": "Product",
+    "isHome": false
   },
   {
     "id": "pg-76",
