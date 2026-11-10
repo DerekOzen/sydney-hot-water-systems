@@ -1442,12 +1442,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:58:55.572Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:24:27.622Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-88",
