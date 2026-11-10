@@ -1167,11 +1167,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "category": "Product",
     "createdAt": "2026-11-10T03:54:54.091Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T20:32:56.153Z",
+    "updatedAt": "2026-11-10T03:54:54.091Z",
     "updatedBy": "derek"
   },
   {
@@ -1184,11 +1184,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-10T03:54:54.091Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T03:54:54.091Z",
+    "updatedAt": "2026-11-10T20:33:01.149Z",
     "updatedBy": "derek"
   },
   {
