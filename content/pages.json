@@ -1306,12 +1306,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-80",
@@ -1323,12 +1324,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-81",
@@ -1340,12 +1342,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-82",
@@ -1357,12 +1360,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-83",
@@ -1374,12 +1378,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-84",
@@ -1391,12 +1396,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-85",
@@ -1408,12 +1414,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-86",
@@ -1425,12 +1432,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T09:48:59.478Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T09:48:59.478Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-87",
@@ -1531,12 +1539,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-93",
@@ -1548,12 +1557,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-94",
@@ -1565,12 +1575,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-95",
@@ -1582,12 +1593,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-96",
@@ -1599,12 +1611,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-97",
@@ -1616,12 +1629,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-98",
@@ -1633,12 +1647,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-99",
@@ -1650,12 +1665,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-100",
@@ -1667,12 +1683,13 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-10T19:49:09.786Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:49:09.786Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:25:12.747Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-101",
