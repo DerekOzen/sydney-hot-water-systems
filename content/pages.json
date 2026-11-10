@@ -1099,11 +1099,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-10T03:54:54.091Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T03:54:54.091Z",
+    "updatedAt": "2026-11-10T20:32:24.407Z",
     "updatedBy": "derek"
   },
   {
