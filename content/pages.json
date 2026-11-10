@@ -1511,11 +1511,12 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-10T19:22:02.080Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T19:28:34.770Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-10T20:12:17.039Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-92",
