@@ -1291,5 +1291,22 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-10T20:15:33.458Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-79",
+    "path": "/thermaddff",
+    "type": "product",
+    "title": "THERMADdff",
+    "seoTitle": "SHWS Product",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-2",
+    "footerPartId": "footer-2",
+    "category": "Product",
+    "status": "draft",
+    "updatedAt": "2026-11-10T20:26:53.457Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-10T20:26:53.457Z",
+    "createdBy": "derek"
   }
 ]
