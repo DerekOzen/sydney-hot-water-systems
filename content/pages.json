@@ -3189,11 +3189,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T21:05:04.961Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:05:04.961Z",
+    "updatedAt": "2026-11-11T21:05:20.909Z",
     "updatedBy": "derek"
   },
   {
@@ -3206,11 +3206,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T21:05:04.961Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:05:04.961Z",
+    "updatedAt": "2026-11-11T21:05:20.909Z",
     "updatedBy": "derek"
   },
   {
@@ -3223,11 +3223,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T21:05:04.961Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:05:04.961Z",
+    "updatedAt": "2026-11-11T21:05:20.909Z",
     "updatedBy": "derek"
   },
   {
@@ -3240,11 +3240,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T21:05:04.961Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:05:04.961Z",
+    "updatedAt": "2026-11-11T21:05:20.909Z",
     "updatedBy": "derek"
   },
   {
@@ -3257,11 +3257,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T21:05:04.961Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:05:04.961Z",
+    "updatedAt": "2026-11-11T21:05:20.909Z",
     "updatedBy": "derek"
   }
 ]
