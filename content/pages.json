@@ -3172,7 +3172,7 @@
   },
   {
     "id": "pg-270",
-    "path": "/western-sydney",
+    "path": "/locations/nsw/hot-water-repairs-western-sydney",
     "type": "location",
     "title": "Hot Water Systems Western Sydney | Repairs & Install",
     "seoTitle": "Hot Water Systems Western Sydney | Repairs & Install",
@@ -3180,10 +3180,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-11T23:33:09.037Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T23:33:09.037Z",
+    "updatedAt": "2026-11-11T23:34:19.140Z",
     "updatedBy": "derek"
   }
 ]
