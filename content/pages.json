@@ -1442,7 +1442,7 @@
   },
   {
     "id": "pg-91",
-    "path": "/aquamax-270-130l-gas-hot-water-system",
+    "path": "/product/aquamax-270-130l-gas-hot-water-system",
     "type": "product",
     "title": "Aquamax 270 130L Gas Storage Hot Water System | Sydney",
     "seoTitle": "Aquamax 270 130L Gas Storage Hot Water System | Sydney",
@@ -1450,11 +1450,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:17:36.036Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:17:36.036Z",
+    "updatedAt": "2026-11-11T19:37:26.918Z",
     "updatedBy": "derek"
   },
   {
