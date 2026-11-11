@@ -1731,7 +1731,7 @@
   },
   {
     "id": "pg-110",
-    "path": "/rheem-50l-3-6kw-electric-hot-water-system",
+    "path": "/product/rheem-50l-3-6kw-electric-hot-water-system",
     "type": "product",
     "title": "Rheem 50L Electric Hot Water System (3.6kW) | Sydney",
     "seoTitle": "Rheem 50L Electric Hot Water System (3.6kW) | Sydney",
@@ -1739,11 +1739,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:24:07.665Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:24:07.665Z",
+    "updatedAt": "2026-11-11T19:46:06.269Z",
     "updatedBy": "derek"
   },
   {
