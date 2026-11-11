@@ -6,7 +6,7 @@
     "button": ""
   },
   "backToTop": {
-    "enabled": true,
+    "enabled": false,
     "position": "br",
     "shape": "round",
     "icon": "chevron",
