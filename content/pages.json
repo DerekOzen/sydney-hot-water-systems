@@ -1457,5 +1457,21 @@
     "updatedBy": "derek",
     "createdAt": "2026-11-11T02:27:47.424Z",
     "createdBy": "derek"
+  },
+  {
+    "id": "pg-93",
+    "path": "/aqua",
+    "type": "page",
+    "title": "Aqua",
+    "seoTitle": "Aquamax 270 130L Gas Storage Hot Water System, Natural Gas",
+    "seoDescription": "Aquamax 270 130L Gas Storage Hot Water System — supplied & installed across Sydney at a fixed price. 5 star energy rating. Add to Quote for installed pricing.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-11T02:44:06.654Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-11T02:44:06.654Z",
+    "createdBy": "derek"
   }
 ]
