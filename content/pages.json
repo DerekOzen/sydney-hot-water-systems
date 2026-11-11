@@ -3138,5 +3138,22 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T20:24:59.490Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-208",
+    "path": "/barnd/aquamax",
+    "type": "brand",
+    "title": "Aquamax Hot Water Sydney | Supply, Install & Service",
+    "seoTitle": "Aquamax Hot Water Sydney | Supply, Install & Service",
+    "seoDescription": "Aquamax hot water systems supplied, installed and serviced across Sydney — electric, gas and solar storage models fitted by licensed plumbers. Call 1300 096 668.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "category": "Brand",
+    "createdAt": "2026-11-11T20:36:52.024Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-11T20:36:52.024Z",
+    "updatedBy": "derek"
   }
 ]
