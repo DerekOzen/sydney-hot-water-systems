@@ -3049,12 +3049,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "published",
-    "updatedAt": "2026-11-11T22:34:06.255Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-11T22:39:07.276Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-11T22:22:26.012Z",
     "createdBy": "derek",
-    "isHome": true
+    "isHome": false
   },
   {
     "id": "pg-263",
