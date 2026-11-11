@@ -3141,7 +3141,7 @@
   },
   {
     "id": "pg-208",
-    "path": "/barnd/aquamax",
+    "path": "/brand/aquamax",
     "type": "brand",
     "title": "Aquamax Hot Water Sydney | Supply, Install & Service",
     "seoTitle": "Aquamax Hot Water Sydney | Supply, Install & Service",
@@ -3149,11 +3149,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T20:36:52.024Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T20:36:52.024Z",
+    "updatedAt": "2026-11-11T20:37:12.589Z",
     "updatedBy": "derek"
   }
 ]
