@@ -3416,5 +3416,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T21:24:03.176Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-235",
+    "path": "/locations/nsw/canterbury-bankstown",
+    "type": "location",
+    "title": "Hot Water Systems Canterbury-Bankstown | Repairs & Install",
+    "seoTitle": "Hot Water Systems Canterbury-Bankstown | Repairs & Install",
+    "seoDescription": "Hot water repairs, installation and replacement across Canterbury-Bankstown — Bankstown, Campsie, Lakemba and nearby. Licensed Sydney plumbers, 1300 096 668.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-11T21:42:21.661Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-11T21:42:21.661Z",
+    "updatedBy": "derek"
   }
 ]
