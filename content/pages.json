@@ -1323,7 +1323,7 @@
   },
   {
     "id": "pg-84",
-    "path": "/rinnai-26l-infinity-continuous-flow-gas-hot-water-system-50-degree",
+    "path": "/product/rinnai-26l-infinity-continuous-flow-gas-hot-water-system-50-degree",
     "type": "product",
     "title": "Rinnai 26L Infinity Continuous Flow Gas HWS, 50°C",
     "seoTitle": "Rinnai 26L Infinity Continuous Flow Gas HWS, 50°C",
@@ -1331,11 +1331,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:09:29.615Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:09:29.615Z",
+    "updatedAt": "2026-11-11T19:33:51.661Z",
     "updatedBy": "derek"
   },
   {
