@@ -3275,11 +3275,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product Category",
     "createdAt": "2026-11-11T21:11:08.729Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:11:08.729Z",
+    "updatedAt": "2026-11-11T21:11:36.378Z",
     "updatedBy": "derek"
   }
 ]
