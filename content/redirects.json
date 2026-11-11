@@ -5,5 +5,390 @@
     "code": 301,
     "at": "2026-11-11T22:18:35.251Z",
     "fromRaw": "/rheem-50l-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-compact-25l-electric-hot-water-sytem",
+    "to": "/product/rheem-compact-25l-electric-hot-water-sytem",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-compact-25l-electric-hot-water-sytem"
+  },
+  {
+    "from": "/rinnai-25l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-25l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-25l-3-6kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rinnai-50l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-50l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-50l-3-6kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rinnai-50l-hotflo-electric-hot-water-system",
+    "to": "/product/rinnai-50l-hotflo-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-50l-hotflo-electric-hot-water-system"
+  },
+  {
+    "from": "/rinnai-80l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-80l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-80l-3-6kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/thermann-small-elec-hwu-se-25l-3-6kw",
+    "to": "/product/thermann-small-elec-hwu-se-25l-3-6kw",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/thermann-small-elec-hwu-se-25l-3-6kw"
+  },
+  {
+    "from": "/thermann-small-elec-hwu-se-50l-3-6kw",
+    "to": "/product/thermann-small-elec-hwu-se-50l-3-6kw",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/thermann-small-elec-hwu-se-50l-3-6kw"
+  },
+  {
+    "from": "/rinnai-26l-infinity-enviro-continuous-flow-gas-hot-water-system-ng",
+    "to": "/product/rinnai-26l-infinity-enviro-continuous-flow-gas-hot-water-system-ng",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-26l-infinity-enviro-continuous-flow-gas-hot-water-system-ng"
+  },
+  {
+    "from": "/rinnai-26l-infinity-touch-continuous-flow-gas-hot-water-system-50-60-degree-ng",
+    "to": "/product/rinnai-26l-infinity-touch-continuous-flow-gas-hot-water-system-50-60-degree-ng",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-26l-infinity-touch-continuous-flow-gas-hot-water-system-50-60-degree-ng"
+  },
+  {
+    "from": "/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-50-degree",
+    "to": "/product/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-50-degree",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-50-degree"
+  },
+  {
+    "from": "/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-60-degree",
+    "to": "/product/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-60-degree",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-60-degree"
+  },
+  {
+    "from": "/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-ng",
+    "to": "/product/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-ng",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-32l-infinity-continuous-flow-gas-hot-water-system-ng"
+  },
+  {
+    "from": "/rinnai-infinity-b26-continuous-flow-gas-hot-water-system-50-degree",
+    "to": "/product/rinnai-infinity-b26-continuous-flow-gas-hot-water-system-50-degree",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-infinity-b26-continuous-flow-gas-hot-water-system-50-degree"
+  },
+  {
+    "from": "/thermann-6-26l-c-flow-50deg-n-g",
+    "to": "/product/thermann-6-26l-c-flow-50deg-n-g",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/thermann-6-26l-c-flow-50deg-n-g"
+  },
+  {
+    "from": "/aquamax-80l-stainless-steel-electric-storage-hot-water-system",
+    "to": "/product/aquamax-80l-stainless-steel-electric-storage-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-80l-stainless-steel-electric-storage-hot-water-system"
+  },
+  {
+    "from": "/aquamax-125l-stainless-steel-electric-storage-hot-water-system",
+    "to": "/product/aquamax-125l-stainless-steel-electric-storage-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-125l-stainless-steel-electric-storage-hot-water-system"
+  },
+  {
+    "from": "/aquamax-160l-stainless-steel-electric-storage-hot-water-system",
+    "to": "/product/aquamax-160l-stainless-steel-electric-storage-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-160l-stainless-steel-electric-storage-hot-water-system"
+  },
+  {
+    "from": "/aquamax-250l-stainless-steel-electric-storage-hot-water-system",
+    "to": "/product/aquamax-250l-stainless-steel-electric-storage-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-250l-stainless-steel-electric-storage-hot-water-system"
+  },
+  {
+    "from": "/aquamax-250l-stainless-steel-electric-storage-hot-water-system-twin-element",
+    "to": "/product/aquamax-250l-stainless-steel-electric-storage-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-250l-stainless-steel-electric-storage-hot-water-system-twin-element"
+  },
+  {
+    "from": "/aquamax-315l-stainless-steel-electric-storage-hot-water-system",
+    "to": "/product/aquamax-315l-stainless-steel-electric-storage-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-315l-stainless-steel-electric-storage-hot-water-system"
+  },
+  {
+    "from": "/aquamax-315l-stainless-steel-electric-storage-hot-water-system-twin-element",
+    "to": "/product/aquamax-315l-stainless-steel-electric-storage-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-315l-stainless-steel-electric-storage-hot-water-system-twin-element"
+  },
+  {
+    "from": "/aquamax-400l-stainless-steel-electric-storage-hot-water-system",
+    "to": "/product/aquamax-400l-stainless-steel-electric-storage-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-400l-stainless-steel-electric-storage-hot-water-system"
+  },
+  {
+    "from": "/aquamax-400l-stainless-steel-electric-storage-hot-water-system-twin-element",
+    "to": "/product/aquamax-400l-stainless-steel-electric-storage-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/aquamax-400l-stainless-steel-electric-storage-hot-water-system-twin-element"
+  },
+  {
+    "from": "/dux-80l-3-6-kw-proflo-electric-hot-water-system-single-element",
+    "to": "/product/dux-80l-3-6-kw-proflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-80l-3-6-kw-proflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/dux-160l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "to": "/product/dux-160l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-160l-3-6kw-proflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/dux-250l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "to": "/product/dux-250l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-250l-3-6kw-proflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/dux-315l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "to": "/product/dux-315l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-315l-3-6kw-proflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/dux-315l-3-6kw-proflo-electric-hot-water-system-twin-element",
+    "to": "/product/dux-315l-3-6kw-proflo-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-315l-3-6kw-proflo-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/dux-400l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "to": "/product/dux-400l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-400l-3-6kw-proflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/dux-400l-3-6kw-proflo-electric-hot-water-system-twin-element",
+    "to": "/product/dux-400l-3-6kw-proflo-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-400l-3-6kw-proflo-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/dux-proflo-25l",
+    "to": "/product/dux-proflo-25l",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/dux-proflo-25l"
+  },
+  {
+    "from": "/rheem-50l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "to": "/product/rheem-50l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-50l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-80l-3-6kw-electric-hot-water-system-single-element",
+    "to": "/product/rheem-80l-3-6kw-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-80l-3-6kw-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-80l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "to": "/product/rheem-80l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-80l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-80l-electric-hot-water-system",
+    "to": "/product/rheem-80l-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-80l-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-125l-3-6kw-electric-hot-water-system-single-element",
+    "to": "/product/rheem-125l-3-6kw-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-125l-3-6kw-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-125l-electric-hot-water-system",
+    "to": "/product/rheem-125l-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-125l-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-160l-3-6kw-electric-hot-water-system-single-element",
+    "to": "/product/rheem-160l-3-6kw-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-160l-3-6kw-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-160l-4-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "to": "/product/rheem-160l-4-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-160l-4-6kw-stellar-stainless-steel-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-160l-electric-water-heater",
+    "to": "/product/rheem-160l-electric-water-heater",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-160l-electric-water-heater"
+  },
+  {
+    "from": "/rheem-250l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "to": "/product/rheem-250l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-250l-3-6kw-stellar-stainless-steel-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-250l-4-8kw-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-250l-4-8kw-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-250l-4-8kw-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rheem-250l-electric-hot-water-system",
+    "to": "/product/rheem-250l-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-250l-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-250l-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-250l-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-250l-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rheem-315l-3-6kw-stellar-stainless-steel-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-315l-3-6kw-stellar-stainless-steel-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-315l-3-6kw-stellar-stainless-steel-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rheem-315l-4-8kw-electric-hot-water-system",
+    "to": "/product/rheem-315l-4-8kw-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-315l-4-8kw-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-315l-4-8kw-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-315l-4-8kw-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-315l-4-8kw-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rheem-315l-4-8kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "to": "/product/rheem-315l-4-8kw-stellar-stainless-steel-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-315l-4-8kw-stellar-stainless-steel-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-315l-electric-hot-water-system",
+    "to": "/product/rheem-315l-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-315l-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-400l-4-8kw-electric-hot-water-system-single-element",
+    "to": "/product/rheem-400l-4-8kw-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-400l-4-8kw-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rheem-400l-4-8kw-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-400l-4-8kw-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-400l-4-8kw-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rheem-400l-electric-hot-water-system",
+    "to": "/product/rheem-400l-electric-hot-water-system",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-400l-electric-hot-water-system"
+  },
+  {
+    "from": "/rheem-400l-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-400l-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-400l-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rheem-stellar-125l-3-6kw-stainless-steel-electric-water-heater-single-element",
+    "to": "/product/rheem-stellar-125l-3-6kw-stainless-steel-electric-water-heater-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rheem-stellar-125l-3-6kw-stainless-steel-electric-water-heater-single-element"
+  },
+  {
+    "from": "/rinnai-160l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-160l-3-6kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-11T22:19:59.620Z",
+    "fromRaw": "/rinnai-160l-3-6kw-hotflo-electric-hot-water-system-single-element"
   }
 ]
