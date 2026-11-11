@@ -3167,11 +3167,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Brand",
     "createdAt": "2026-11-11T20:49:10.758Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T20:49:10.758Z",
+    "updatedAt": "2026-11-11T20:50:08.554Z",
     "updatedBy": "derek"
   }
 ]
