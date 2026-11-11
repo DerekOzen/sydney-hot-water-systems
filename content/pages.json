@@ -3144,5 +3144,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T20:13:31.063Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-198",
+    "path": "/commercial-hot-water-system",
+    "type": "service",
+    "title": "Commercial Hot Water Systems Sydney | Supply & Install",
+    "seoTitle": "Commercial Hot Water Systems Sydney | Supply & Install",
+    "seoDescription": "Commercial hot water systems across Sydney — supply, installation and repairs for businesses, strata and industrial sites. Licensed plumbers, 1300 096 668.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "createdAt": "2026-11-11T20:22:55.342Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-11T20:22:55.342Z",
+    "updatedBy": "derek"
   }
 ]
