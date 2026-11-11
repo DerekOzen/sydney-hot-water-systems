@@ -3154,7 +3154,7 @@
   },
   {
     "id": "pg-262",
-    "path": "/home",
+    "path": "/",
     "type": "page",
     "title": "Home",
     "seoTitle": "Hot Water Systems Sydney | Supply, Install, Repair & Replace",
@@ -3162,10 +3162,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "draft",
-    "updatedAt": "2026-11-11T22:22:26.012Z",
+    "status": "published",
+    "updatedAt": "2026-11-11T22:22:38.285Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-11T22:22:26.012Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": true
   }
 ]
