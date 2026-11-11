@@ -1306,7 +1306,7 @@
   },
   {
     "id": "pg-83",
-    "path": "/rheem-26l-metro-continuous-flow-gas-hot-water-system-60-degree",
+    "path": "/product/rheem-26l-metro-continuous-flow-gas-hot-water-system-60-degree",
     "type": "product",
     "title": "Rheem 26L Metro Continuous Flow Gas Hot Water System, 60°C",
     "seoTitle": "Rheem 26L Metro Continuous Flow Gas Hot Water System, 60°C",
@@ -1314,11 +1314,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:09:29.615Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:09:29.615Z",
+    "updatedAt": "2026-11-11T19:33:45.708Z",
     "updatedBy": "derek"
   },
   {
