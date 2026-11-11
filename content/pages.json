@@ -3168,5 +3168,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T23:08:27.422Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-270",
+    "path": "/western-sydney",
+    "type": "location",
+    "title": "Hot Water Systems Western Sydney | Repairs & Install",
+    "seoTitle": "Hot Water Systems Western Sydney | Repairs & Install",
+    "seoDescription": "Hot water repairs, installation and replacement across Western Sydney — Blacktown, Penrith and nearby. Licensed Sydney plumbers, 1300 096 668.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-11T23:33:09.037Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-11T23:33:09.037Z",
+    "updatedBy": "derek"
   }
 ]
