@@ -3264,5 +3264,22 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T21:07:15.653Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-215",
+    "path": "/product-category/electric",
+    "type": "product-category",
+    "title": "Electric Hot Water Systems Sydney | Supply & Install",
+    "seoTitle": "Electric Hot Water Systems Sydney | Supply & Install",
+    "seoDescription": "Electric hot water systems supplied and installed across Sydney — storage tanks from Rheem, Dux, Aquamax and more, fitted by licensed plumbers. Call 1300 096 668.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "category": "Product Category",
+    "createdAt": "2026-11-11T21:11:08.729Z",
+    "createdBy": "derek",
+    "updatedAt": "2026-11-11T21:11:08.729Z",
+    "updatedBy": "derek"
   }
 ]
