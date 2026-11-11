@@ -3104,10 +3104,10 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
     "status": "published",
-    "category": "Product",
+    "category": "Shop",
     "createdAt": "2026-11-11T20:01:43.438Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T20:01:57.952Z",
+    "updatedAt": "2026-11-11T20:13:40.215Z",
     "updatedBy": "derek"
   },
   {
@@ -3121,10 +3121,10 @@
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
     "status": "published",
-    "category": "Shop",
+    "category": "Product",
     "createdAt": "2026-11-11T20:01:43.438Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T20:13:35.913Z",
+    "updatedAt": "2026-11-11T20:01:57.952Z",
     "updatedBy": "derek"
   },
   {
