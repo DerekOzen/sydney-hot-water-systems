@@ -1,0 +1,59 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mwci29z6-d9u3",
+      "at": "2026-11-11T19:16:18.306Z",
+      "count": 12,
+      "changes": [
+        {
+          "path": "/rheem-26l-metro-continuous-flow-gas-hot-water-system-60-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-001"
+        },
+        {
+          "path": "/rheem-26l-continuous-flow-gas-hot-water-system",
+          "newRecordId": "SCHEMA-SHWS-B1-002"
+        },
+        {
+          "path": "/rinnai-b26-continuous-flow-gas-hot-water-system-60-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-003"
+        },
+        {
+          "path": "/thermann-6-26l-c-flow-60deg-n-g",
+          "newRecordId": "SCHEMA-SHWS-B1-004"
+        },
+        {
+          "path": "/rheem-20l-continuous-flow-gas-hot-water-system-60-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-005"
+        },
+        {
+          "path": "/rinnai-26l-infinity-continuous-flow-gas-hot-water-system-50-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-006"
+        },
+        {
+          "path": "/rinnai-26l-infinity-continuous-flow-gas-hot-water-system-60-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-007"
+        },
+        {
+          "path": "/thermann-6-20l-c-flow-60deg-n-g",
+          "newRecordId": "SCHEMA-SHWS-B1-008"
+        },
+        {
+          "path": "/dux-26l-condensing-continuous-flow-water-heater-50-natural-gas",
+          "newRecordId": "SCHEMA-SHWS-B1-009"
+        },
+        {
+          "path": "/dux-26l-condensing-continuous-flow-water-heater-60-natural-gas",
+          "newRecordId": "SCHEMA-SHWS-B1-010"
+        },
+        {
+          "path": "/rinnai-26l-infinity-touch-continuous-flow-gas-hot-water-system-50-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-011"
+        },
+        {
+          "path": "/rinnai-26l-infinity-touch-continuous-flow-gas-hot-water-system-60-degree",
+          "newRecordId": "SCHEMA-SHWS-B1-012"
+        }
+      ]
+    }
+  ]
+}
