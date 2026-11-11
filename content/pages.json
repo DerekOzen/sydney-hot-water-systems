@@ -3427,10 +3427,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-11T21:42:21.661Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T21:42:21.661Z",
+    "updatedAt": "2026-11-11T21:43:39.225Z",
     "updatedBy": "derek"
   }
 ]
