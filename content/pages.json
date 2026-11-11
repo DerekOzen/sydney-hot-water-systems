@@ -1476,7 +1476,7 @@
   },
   {
     "id": "pg-95",
-    "path": "/aquamax-390-155l-stainless-steel-gas-storage-hot-water-system",
+    "path": "/product/aquamax-390-155l-stainless-steel-gas-storage-hot-water-system",
     "type": "product",
     "title": "Aquamax 390SS 155L Gas Storage Hot Water System | Sydney",
     "seoTitle": "Aquamax 390SS 155L Gas Storage Hot Water System | Sydney",
@@ -1484,11 +1484,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:17:36.036Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:17:36.036Z",
+    "updatedAt": "2026-11-11T19:36:37.639Z",
     "updatedBy": "derek"
   },
   {
