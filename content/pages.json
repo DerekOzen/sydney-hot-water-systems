@@ -122,12 +122,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-20",
@@ -139,12 +140,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-21",
@@ -156,12 +158,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-22",
@@ -173,12 +176,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-23",
@@ -190,12 +194,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-24",
@@ -207,12 +212,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-25",
@@ -224,12 +230,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-26",
@@ -241,12 +248,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:45:31.073Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
+    "updatedAt": "2026-11-11T21:22:29.931Z",
     "updatedBy": "derek",
-    "category": "Problem Solution"
+    "category": "Problem Solution",
+    "isHome": false
   },
   {
     "id": "pg-27",
