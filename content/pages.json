@@ -26,11 +26,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T22:27:45.156Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-4",
@@ -42,11 +43,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T22:27:45.156Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -58,11 +60,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T22:27:45.156Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -74,11 +77,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T22:27:45.156Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-12",
@@ -90,11 +94,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T22:27:45.156Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-13",
@@ -106,11 +111,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T23:01:15.739Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T22:27:45.156Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-77",
