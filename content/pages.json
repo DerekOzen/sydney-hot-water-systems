@@ -1748,7 +1748,7 @@
   },
   {
     "id": "pg-111",
-    "path": "/rheem-50l-3-6kw-electric-hot-water-system-single-element",
+    "path": "/product/rheem-50l-3-6kw-electric-hot-water-system-single-element",
     "type": "product",
     "title": "Rheem 50L Electric Hot Water System, Single Element (3.6kW)",
     "seoTitle": "Rheem 50L Electric Hot Water System, Single Element (3.6kW)",
@@ -1756,11 +1756,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:24:07.665Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:24:07.665Z",
+    "updatedAt": "2026-11-11T19:46:10.616Z",
     "updatedBy": "derek"
   },
   {
