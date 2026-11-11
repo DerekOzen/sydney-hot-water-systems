@@ -1578,7 +1578,7 @@
   },
   {
     "id": "pg-101",
-    "path": "/product/rheem-170l-gas-storage-hot-water-system",
+    "path": "/rheem-170l-gas-storage-hot-water-system",
     "type": "product",
     "title": "Rheem 170L Gas Storage Hot Water System | Sydney",
     "seoTitle": "Rheem 170L Gas Storage Hot Water System | Sydney",
@@ -1586,11 +1586,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "category": "Product",
     "createdAt": "2026-11-11T19:17:36.036Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:40:45.963Z",
+    "updatedAt": "2026-11-11T19:17:36.036Z",
     "updatedBy": "derek"
   },
   {
@@ -1612,7 +1612,7 @@
   },
   {
     "id": "pg-103",
-    "path": "/rinnai-135l-hotflo-gas-storage-hot-water-system",
+    "path": "/product/rinnai-135l-hotflo-gas-storage-hot-water-system",
     "type": "product",
     "title": "Rinnai 135L Hotflo Gas Storage Hot Water System | Sydney",
     "seoTitle": "Rinnai 135L Hotflo Gas Storage Hot Water System | Sydney",
@@ -1620,11 +1620,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:18:03.367Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:18:03.367Z",
+    "updatedAt": "2026-11-11T19:40:48.301Z",
     "updatedBy": "derek"
   },
   {
@@ -1646,7 +1646,7 @@
   },
   {
     "id": "pg-105",
-    "path": "/product/thermann-4-hwu-135l-n-g",
+    "path": "/thermann-4-hwu-135l-n-g",
     "type": "product",
     "title": "Thermann 4★ 135L Gas Storage Hot Water System | Sydney",
     "seoTitle": "Thermann 4★ 135L Gas Storage Hot Water System | Sydney",
@@ -1654,16 +1654,16 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "category": "Product",
     "createdAt": "2026-11-11T19:18:03.367Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:40:53.361Z",
+    "updatedAt": "2026-11-11T19:18:03.367Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-106",
-    "path": "/product/thermann-4-hwu-170l-n-g",
+    "path": "/thermann-4-hwu-170l-n-g",
     "type": "product",
     "title": "Thermann 4★ 170L Gas Storage Hot Water System | Sydney",
     "seoTitle": "Thermann 4★ 170L Gas Storage Hot Water System | Sydney",
@@ -1671,16 +1671,16 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "category": "Product",
     "createdAt": "2026-11-11T19:18:03.367Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:40:57.155Z",
+    "updatedAt": "2026-11-11T19:18:03.367Z",
     "updatedBy": "derek"
   },
   {
     "id": "pg-107",
-    "path": "/product/dux-25l-2-4kw-proflo-electric-hot-water-system-single-element",
+    "path": "/dux-25l-2-4kw-proflo-electric-hot-water-system-single-element",
     "type": "product",
     "title": "Dux 25L Proflo Electric HWS, Single Element (2.4kW)",
     "seoTitle": "Dux 25L Proflo Electric HWS, Single Element (2.4kW)",
@@ -1688,11 +1688,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "category": "Product",
     "createdAt": "2026-11-11T19:24:07.665Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:41:01.211Z",
+    "updatedAt": "2026-11-11T19:24:07.665Z",
     "updatedBy": "derek"
   },
   {
