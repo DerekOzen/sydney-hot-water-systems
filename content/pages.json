@@ -1884,7 +1884,7 @@
   },
   {
     "id": "pg-119",
-    "path": "/thermann-25l-hot-water-system-electric",
+    "path": "/product/thermann-25l-hot-water-system-electric",
     "type": "product",
     "title": "Thermann 25L Electric Hot Water System | Sydney",
     "seoTitle": "Thermann 25L Electric Hot Water System | Sydney",
@@ -1892,11 +1892,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:24:34.248Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:24:34.248Z",
+    "updatedAt": "2026-11-11T19:46:41.688Z",
     "updatedBy": "derek"
   },
   {
@@ -1918,7 +1918,7 @@
   },
   {
     "id": "pg-121",
-    "path": "/product/thermann-small-elec-hwu-se-50l-3-6kw",
+    "path": "/thermann-small-elec-hwu-se-50l-3-6kw",
     "type": "product",
     "title": "Thermann Small Electric 50L 3.6kW Hot Water System",
     "seoTitle": "Thermann Small Electric 50L 3.6kW Hot Water System",
@@ -1926,11 +1926,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "draft",
     "category": "Product",
     "createdAt": "2026-11-11T19:24:34.248Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:46:44.862Z",
+    "updatedAt": "2026-11-11T19:24:34.248Z",
     "updatedBy": "derek"
   },
   {
