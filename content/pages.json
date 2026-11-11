@@ -1441,5 +1441,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-10T23:28:24.199Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-92",
+    "path": "/checkout",
+    "type": "page",
+    "title": "Checkout",
+    "seoTitle": "Your quote | Sydney Hot Water Systems",
+    "seoDescription": "",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-2",
+    "status": "draft",
+    "updatedAt": "2026-11-11T02:27:47.424Z",
+    "updatedBy": "derek",
+    "createdAt": "2026-11-11T02:27:47.424Z",
+    "createdBy": "derek"
   }
 ]
