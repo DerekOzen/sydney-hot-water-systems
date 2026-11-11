@@ -3023,7 +3023,7 @@
   },
   {
     "id": "pg-186",
-    "path": "/rinnai-transceiver-remote-control",
+    "path": "/product/rinnai-transceiver-remote-control",
     "type": "product",
     "title": "Rinnai Transceiver & Remote Control | Sydney",
     "seoTitle": "Rinnai Transceiver & Remote Control | Sydney",
@@ -3031,11 +3031,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "category": "Product",
     "createdAt": "2026-11-11T19:29:55.887Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T19:29:55.887Z",
+    "updatedAt": "2026-11-11T19:43:57.212Z",
     "updatedBy": "derek"
   }
 ]
