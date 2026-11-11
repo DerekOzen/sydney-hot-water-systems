@@ -3040,23 +3040,6 @@
     "updatedBy": "derek"
   },
   {
-    "id": "pg-262",
-    "path": "/",
-    "type": "page",
-    "title": "Home",
-    "seoTitle": "Hot Water Systems Sydney | Supply, Install, Repair & Replace",
-    "seoDescription": "Sydney's hot water specialists — supply, installation, repairs and replacement for gas, electric, solar and heat pump systems. Call 1300 096 668.",
-    "layout": "mockup",
-    "headerPartId": "header-4",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "updatedAt": "2026-11-11T22:39:07.276Z",
-    "updatedBy": "derek",
-    "createdAt": "2026-11-11T22:22:26.012Z",
-    "createdBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-263",
     "path": "/about-us",
     "type": "page",
