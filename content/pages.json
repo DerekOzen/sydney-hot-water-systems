@@ -58,12 +58,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-6",
@@ -75,12 +76,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -92,12 +94,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-8",
@@ -109,12 +112,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -142,12 +146,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T11:52:35.254Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -224,11 +229,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:39:20.440Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T20:24:12.193Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-16",
@@ -240,11 +246,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:39:20.440Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T20:24:12.193Z",
+    "updatedBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -256,12 +263,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-09T20:39:20.440Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
-    "category": "Services"
+    "category": "Services",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -1149,11 +1157,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
-    "updatedAt": "2026-11-10T22:47:50.274Z",
+    "status": "deleted",
+    "updatedAt": "2026-11-11T20:24:12.193Z",
     "updatedBy": "derek",
     "createdAt": "2026-11-10T04:31:57.187Z",
-    "createdBy": "derek"
+    "createdBy": "derek",
+    "isHome": false
   },
   {
     "id": "pg-77",
