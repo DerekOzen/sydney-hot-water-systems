@@ -3149,8 +3149,9 @@
     "status": "published",
     "createdAt": "2026-11-11T23:08:05.466Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T23:08:27.422Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T23:08:45.218Z",
+    "updatedBy": "derek",
+    "noindex": true
   },
   {
     "id": "pg-269",
