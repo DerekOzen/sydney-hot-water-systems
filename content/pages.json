@@ -3149,11 +3149,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-2",
-    "status": "published",
+    "status": "deleted",
     "category": "Brand",
     "createdAt": "2026-11-11T20:36:52.024Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T20:37:12.589Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-11T20:48:38.942Z",
+    "updatedBy": "derek",
+    "isHome": false
   }
 ]
