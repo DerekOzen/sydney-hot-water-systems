@@ -8,7 +8,7 @@
     "fonts": [
       "https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&family=Montserrat:wght@400;500;600;700&display=swap"
     ],
-    "updatedAt": "2026-11-11T20:09:07.491Z",
+    "updatedAt": "2026-11-11T22:36:46.524Z",
     "layout": {
       "enabled": false,
       "rows": [
@@ -25,7 +25,8 @@
       ],
       "accent": "#0f766e",
       "maxWidth": 1200
-    }
+    },
+    "deleted": true
   },
   {
     "id": "header-4",
