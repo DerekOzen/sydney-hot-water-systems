@@ -2014,7 +2014,7 @@
   },
   {
     "id": "pg-200",
-    "path": "/emergency-hot-water-repairs",
+    "path": "/services/emergency-hot-water-repairs",
     "type": "service",
     "title": "Emergency Hot Water Repairs Sydney | Fast Response",
     "seoTitle": "Emergency Hot Water Repairs Sydney | Fast Response",
@@ -2025,8 +2025,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T02:45:19.973Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-201",
