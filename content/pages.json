@@ -2499,7 +2499,7 @@
   },
   {
     "id": "pg-230",
-    "path": "/hot-water-problems/hot-water-problems",
+    "path": "/hot-water-problems",
     "type": "problem-solution",
     "title": "Hot Water Problems | Diagnose the Fault, Then We Fix It | Sydney",
     "seoTitle": "Hot Water Problems | Diagnose the Fault, Then We Fix It | Sydney",
@@ -2511,8 +2511,8 @@
     "category": "Problem Solution",
     "createdAt": "2026-11-11T21:23:45.168Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T03:37:04.979Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-231",
