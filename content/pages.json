@@ -1931,12 +1931,13 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "category": "Product",
     "createdAt": "2026-11-11T19:50:19.639Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T02:24:08.622Z",
+    "updatedBy": "joshua",
+    "isHome": false
   },
   {
     "id": "pg-195",
