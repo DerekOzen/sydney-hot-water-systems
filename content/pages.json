@@ -3180,10 +3180,10 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-12T02:16:37.496Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T02:17:43.398Z",
+    "updatedAt": "2026-11-12T02:18:17.620Z",
     "updatedBy": "joshua"
   }
 ]
