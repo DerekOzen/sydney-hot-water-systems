@@ -2040,7 +2040,7 @@
   },
   {
     "id": "pg-201",
-    "path": "/services/hot-water-installation",
+    "path": "/hot-water-installation",
     "type": "service",
     "title": "Hot Water Installation Sydney | Gas, Electric & Solar",
     "seoTitle": "Hot Water Installation Sydney | Gas, Electric & Solar",
@@ -2051,12 +2051,12 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T01:55:53.328Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-11T22:25:30.884Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-202",
-    "path": "/hot-water-rebates-nsw",
+    "path": "/services/hot-water-rebates-nsw",
     "type": "service",
     "title": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
     "seoTitle": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
@@ -2067,8 +2067,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:55:59.568Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-203",
