@@ -3162,11 +3162,12 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-11-12T01:42:10.470Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T01:43:41.125Z",
+    "updatedAt": "2026-11-12T02:16:15.654Z",
     "updatedBy": "joshua",
-    "category": "Shop"
+    "category": "Shop",
+    "isHome": false
   }
 ]
