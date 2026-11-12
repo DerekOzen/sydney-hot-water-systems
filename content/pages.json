@@ -3367,7 +3367,7 @@
   },
   {
     "id": "pg-281",
-    "path": "/hot-water-systems-supplied-installed-sydney",
+    "path": "/hot-water-systems",
     "type": "page",
     "title": "Hot Water Systems — Supplied & Installed Sydney",
     "seoTitle": "Hot Water Systems — Supplied & Installed Sydney",
@@ -3375,10 +3375,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-12T05:42:23.373Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T05:42:23.373Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-12T05:43:44.934Z",
+    "updatedBy": "joshua",
+    "category": "Shop"
   }
 ]
