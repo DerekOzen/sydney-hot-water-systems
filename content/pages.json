@@ -2046,7 +2046,7 @@
   },
   {
     "id": "pg-202",
-    "path": "/hot-water-rebates-nsw",
+    "path": "/services/hot-water-rebates-nsw",
     "type": "service",
     "title": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
     "seoTitle": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
@@ -2057,8 +2057,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T02:45:47.186Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-203",
