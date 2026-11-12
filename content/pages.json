@@ -1973,24 +1973,6 @@
     "updatedBy": "derek"
   },
   {
-    "id": "pg-197",
-    "path": "/hot-water-systems",
-    "type": "product",
-    "title": "Hot Water Systems — Supplied & Installed Sydney",
-    "seoTitle": "Hot Water Systems — Supplied & Installed Sydney",
-    "seoDescription": "Browse gas, electric, solar and heat pump hot water systems, supplied and installed across Sydney at a fixed price. Add to Quote for installed pricing — no cart, no deposit.",
-    "layout": "mockup",
-    "headerPartId": "header-4",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "category": "Shop",
-    "createdAt": "2026-11-11T20:01:43.438Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-11-12T01:43:19.956Z",
-    "updatedBy": "joshua",
-    "isHome": false
-  },
-  {
     "id": "pg-198",
     "path": "/services/commercial-hot-water-system",
     "type": "service",
@@ -2801,23 +2783,6 @@
     "updatedBy": "derek"
   },
   {
-    "id": "pg-249",
-    "path": "/locations/nsw/hot-water-repairs-western-sydney",
-    "type": "location",
-    "title": "Hot Water Systems Western Sydney | Repairs & Install",
-    "seoTitle": "Hot Water Systems Western Sydney | Repairs & Install",
-    "seoDescription": "Hot water repairs, installation and replacement across Western Sydney — Blacktown, Penrith and nearby. Licensed Sydney plumbers, 1300 096 668.",
-    "layout": "mockup",
-    "headerPartId": "header-4",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-11-11T22:01:15.815Z",
-    "createdBy": "derek",
-    "updatedAt": "2026-11-11T23:34:03.660Z",
-    "updatedBy": "derek",
-    "isHome": false
-  },
-  {
     "id": "pg-208",
     "path": "/resources/gas-vs-electric-vs-heat-pump",
     "type": "post",
@@ -3186,23 +3151,6 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T23:34:19.140Z",
     "updatedBy": "derek"
-  },
-  {
-    "id": "pg-271",
-    "path": "/hot-water-systems-supplied-installed-sydney",
-    "type": "page",
-    "title": "Hot Water Systems — Supplied & Installed Sydney",
-    "seoTitle": "Hot Water Systems — Supplied & Installed Sydney",
-    "seoDescription": "Browse gas, electric, solar and heat pump hot water systems, supplied and installed across Sydney at a fixed price. Add to Quote for installed pricing — no cart, no deposit.",
-    "layout": "mockup",
-    "headerPartId": "header-4",
-    "footerPartId": "footer-3",
-    "status": "deleted",
-    "createdAt": "2026-11-12T01:39:25.066Z",
-    "createdBy": "joshua",
-    "updatedAt": "2026-11-12T01:41:10.573Z",
-    "updatedBy": "joshua",
-    "isHome": false
   },
   {
     "id": "pg-272",
