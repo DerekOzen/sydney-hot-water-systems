@@ -2040,7 +2040,7 @@
   },
   {
     "id": "pg-201",
-    "path": "/hot-water-installation",
+    "path": "/services/hot-water-installation",
     "type": "service",
     "title": "Hot Water Installation Sydney | Gas, Electric & Solar",
     "seoTitle": "Hot Water Installation Sydney | Gas, Electric & Solar",
@@ -2051,12 +2051,12 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:55:53.328Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-202",
-    "path": "/services/hot-water-rebates-nsw",
+    "path": "/hot-water-rebates-nsw",
     "type": "service",
     "title": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
     "seoTitle": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
@@ -2067,8 +2067,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T01:55:59.568Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-11T22:25:30.884Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-203",
@@ -2088,7 +2088,7 @@
   },
   {
     "id": "pg-204",
-    "path": "/hot-water-servicing",
+    "path": "/services/hot-water-servicing",
     "type": "service",
     "title": "Hot Water System Servicing Sydney | Maintenance",
     "seoTitle": "Hot Water System Servicing Sydney | Maintenance",
@@ -2099,8 +2099,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:56:04.947Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-205",
@@ -2136,7 +2136,7 @@
   },
   {
     "id": "pg-207",
-    "path": "/services/solar-hot-water",
+    "path": "/solar-hot-water",
     "type": "service",
     "title": "Solar Hot Water Sydney | Supply, Install & Repair",
     "seoTitle": "Solar Hot Water Sydney | Supply, Install & Repair",
@@ -2147,8 +2147,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T01:56:09.959Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-11T22:25:30.884Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-209",
