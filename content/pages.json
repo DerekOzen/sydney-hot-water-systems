@@ -2040,7 +2040,7 @@
   },
   {
     "id": "pg-201",
-    "path": "/hot-water-installation",
+    "path": "/services/hot-water-installation",
     "type": "service",
     "title": "Hot Water Installation Sydney | Gas, Electric & Solar",
     "seoTitle": "Hot Water Installation Sydney | Gas, Electric & Solar",
@@ -2051,8 +2051,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:55:53.328Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-202",
