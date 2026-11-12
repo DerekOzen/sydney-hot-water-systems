@@ -3196,10 +3196,11 @@
     "layout": "mockup",
     "headerPartId": "header-4",
     "footerPartId": "footer-3",
-    "status": "draft",
+    "status": "deleted",
     "createdAt": "2026-11-12T01:39:25.066Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T01:39:25.066Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-12T01:41:10.573Z",
+    "updatedBy": "joshua",
+    "isHome": false
   }
 ]
