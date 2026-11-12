@@ -453,5 +453,12 @@
     "code": 301,
     "at": "2026-11-12T04:06:53.927Z",
     "fromRaw": "/evoheat-315l-heat-pump-hot-water-system-copy"
+  },
+  {
+    "from": "/shop",
+    "to": "/hot-water-systems",
+    "code": 301,
+    "at": "2026-11-12T04:16:17.092Z",
+    "fromRaw": "/shop"
   }
 ]
