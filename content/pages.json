@@ -2126,7 +2126,7 @@
   },
   {
     "id": "pg-207",
-    "path": "/solar-hot-water",
+    "path": "/servoces/solar-hot-water",
     "type": "service",
     "title": "Solar Hot Water Sydney | Supply, Install & Repair",
     "seoTitle": "Solar Hot Water Sydney | Supply, Install & Repair",
@@ -2137,8 +2137,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T02:40:33.747Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-209",
