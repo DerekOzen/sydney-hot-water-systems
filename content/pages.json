@@ -2008,7 +2008,7 @@
   },
   {
     "id": "pg-199",
-    "path": "/commercial-hot-water-system-strata",
+    "path": "/services/commercial-hot-water-system-strata",
     "type": "service",
     "title": "Strata Hot Water Systems Sydney | Supply & Repair",
     "seoTitle": "Strata Hot Water Systems Sydney | Supply & Repair",
@@ -2019,12 +2019,12 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:55:48.689Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-200",
-    "path": "/services/emergency-hot-water-repairs",
+    "path": "/emergency-hot-water-repairs",
     "type": "service",
     "title": "Emergency Hot Water Repairs Sydney | Fast Response",
     "seoTitle": "Emergency Hot Water Repairs Sydney | Fast Response",
@@ -2035,8 +2035,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T01:55:51.015Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-11T22:25:30.884Z",
+    "updatedBy": "derek"
   },
   {
     "id": "pg-201",
@@ -2056,7 +2056,7 @@
   },
   {
     "id": "pg-202",
-    "path": "/hot-water-rebates-nsw",
+    "path": "/services/hot-water-rebates-nsw",
     "type": "service",
     "title": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
     "seoTitle": "NSW Hot Water Rebates | Heat Pump Savings Sydney",
@@ -2067,8 +2067,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:55:59.568Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-203",
@@ -2136,7 +2136,7 @@
   },
   {
     "id": "pg-207",
-    "path": "/solar-hot-water",
+    "path": "/services/solar-hot-water",
     "type": "service",
     "title": "Solar Hot Water Sydney | Supply, Install & Repair",
     "seoTitle": "Solar Hot Water Sydney | Supply, Install & Repair",
@@ -2147,8 +2147,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:25:30.884Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:56:09.959Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-209",
