@@ -390,5 +390,68 @@
     "code": 301,
     "at": "2026-11-11T22:19:59.620Z",
     "fromRaw": "/rinnai-160l-3-6kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rinnai-250l-4-8kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-250l-4-8kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/rinnai-250l-4-8kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rinnai-250l-4-8kw-hotflo-electric-hot-water-system-twin-element",
+    "to": "/product/rinnai-250l-4-8kw-hotflo-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/rinnai-250l-4-8kw-hotflo-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rinnai-315l-4-8kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-315l-4-8kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/rinnai-315l-4-8kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rinnai-315l-4-8kw-hotflo-electric-hot-water-system-twin-element",
+    "to": "/product/rinnai-315l-4-8kw-hotflo-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/rinnai-315l-4-8kw-hotflo-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/rinnai-400l-4-8kw-hotflo-electric-hot-water-system-single-element",
+    "to": "/product/rinnai-400l-4-8kw-hotflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/rinnai-400l-4-8kw-hotflo-electric-hot-water-system-single-element"
+  },
+  {
+    "from": "/rinnai-400l-4-8kw-hotflo-electric-hot-water-system-twin-element",
+    "to": "/product/rinnai-400l-4-8kw-hotflo-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/rinnai-400l-4-8kw-hotflo-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/thermann-electric-hwu-10yr-se-80l-3-6kw",
+    "to": "/product/thermann-electric-hwu-10yr-se-80l-3-6kw",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/thermann-electric-hwu-10yr-se-80l-3-6kw"
+  },
+  {
+    "from": "/thermann-electric-hwu-10yr-se-400l-3-6kw",
+    "to": "/product/thermann-electric-hwu-10yr-se-400l-3-6kw",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/thermann-electric-hwu-10yr-se-400l-3-6kw"
+  },
+  {
+    "from": "/evoheat-315l-heat-pump-hot-water-system-copy",
+    "to": "/product/evoheat-315l-heat-pump-hot-water-system-copy",
+    "code": 301,
+    "at": "2026-11-12T04:06:53.927Z",
+    "fromRaw": "/evoheat-315l-heat-pump-hot-water-system-copy"
   }
 ]
