@@ -3185,5 +3185,21 @@
     "createdBy": "derek",
     "updatedAt": "2026-11-11T23:34:19.140Z",
     "updatedBy": "derek"
+  },
+  {
+    "id": "pg-271",
+    "path": "/hot-water-systems-supplied-installed-sydney",
+    "type": "page",
+    "title": "Hot Water Systems — Supplied & Installed Sydney",
+    "seoTitle": "Hot Water Systems — Supplied & Installed Sydney",
+    "seoDescription": "Browse gas, electric, solar and heat pump hot water systems, supplied and installed across Sydney at a fixed price. Add to Quote for installed pricing — no cart, no deposit.",
+    "layout": "mockup",
+    "headerPartId": "header-4",
+    "footerPartId": "footer-3",
+    "status": "draft",
+    "createdAt": "2026-11-12T01:39:25.066Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-11-12T01:39:25.066Z",
+    "updatedBy": "joshua"
   }
 ]
