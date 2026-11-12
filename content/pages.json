@@ -1992,7 +1992,7 @@
   },
   {
     "id": "pg-198",
-    "path": "/commercial-hot-water-system",
+    "path": "/services/commercial-hot-water-system",
     "type": "service",
     "title": "Commercial Hot Water Systems Sydney | Supply & Install",
     "seoTitle": "Commercial Hot Water Systems Sydney | Supply & Install",
@@ -2003,8 +2003,8 @@
     "status": "published",
     "createdAt": "2026-11-11T20:22:55.342Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-11T22:24:11.302Z",
-    "updatedBy": "derek"
+    "updatedAt": "2026-11-12T01:55:29.599Z",
+    "updatedBy": "joshua"
   },
   {
     "id": "pg-199",
