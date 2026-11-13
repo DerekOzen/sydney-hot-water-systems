@@ -2657,8 +2657,10 @@
     "status": "published",
     "createdAt": "2026-11-11T22:01:15.815Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T05:51:34.303Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/hot-water-eastern-suburbs.jpg",
+    "featuredImageAlt": "Licensed plumber servicing a hot water system in the Eastern Suburbs"
   },
   {
     "id": "pg-239",
