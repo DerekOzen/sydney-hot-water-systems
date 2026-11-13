@@ -458,7 +458,1330 @@
     "from": "/shop",
     "to": "/hot-water-systems",
     "code": 301,
-    "at": "2026-11-12T04:16:17.092Z",
+    "at": "2026-11-13T05:39:31.892Z",
     "fromRaw": "/shop"
+  },
+  {
+    "from": "/blog",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/blog"
+  },
+  {
+    "from": "/commercial-hot-water-system",
+    "to": "/services/commercial-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/commercial-hot-water-system"
+  },
+  {
+    "from": "/compare",
+    "to": "/hot-water-systems",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/compare"
+  },
+  {
+    "from": "/dux-250l-hot-water-system",
+    "to": "/product/dux-250l-3-6kw-proflo-electric-hot-water-system-single-element",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/dux-250l-hot-water-system"
+  },
+  {
+    "from": "/my-account",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/my-account"
+  },
+  {
+    "from": "/offers",
+    "to": "/hot-water-systems",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/offers"
+  },
+  {
+    "from": "/videos",
+    "to": "/",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/videos"
+  },
+  {
+    "from": "/wishlist",
+    "to": "/hot-water-systems",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/wishlist"
+  },
+  {
+    "from": "/hot-water-installation-abbotsbury",
+    "to": "/locations/nsw/hot-water-repairs-south-west-sydney",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-installation-abbotsbury"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-baysidekwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-western-sydney/hot-water-blacktown",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-baysidekwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-blacktownkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-inner-west",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-blacktownkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-burwoodkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-south-west-sydney",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-burwoodkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-camdenkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-south-west-sydney",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-camdenkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-campbelltownkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-inner-west",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-campbelltownkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-canadabaykwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-canterbury-bankstown",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-canadabaykwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-canterburybankstownkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-parramatta-cumberland",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-canterburybankstownkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-cumberlandkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-south-west-sydney",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-cumberlandkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-fairfieldkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-st-george-sutherland",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-fairfieldkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-georgesriverkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-western-sydney",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-georgesriverkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-hawkesburykwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-north-shore",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-hawkesburykwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service-huntershillkwcity-copy",
+    "to": "/locations/nsw/hot-water-repairs-inner-west",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service-huntershillkwcity-copy"
+  },
+  {
+    "from": "/page-generator-pro/hot-water-service",
+    "to": "/locations",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/hot-water-service"
+  },
+  {
+    "from": "/page-generator-pro/rheem-400l-electric-hot-water-system-twin-element",
+    "to": "/product/rheem-400l-electric-hot-water-system-twin-element",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/rheem-400l-electric-hot-water-system-twin-element"
+  },
+  {
+    "from": "/page-generator-pro/title",
+    "to": "/locations",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/page-generator-pro/title"
+  },
+  {
+    "from": "/us_testimonial/aishwarya-singh",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/aishwarya-singh"
+  },
+  {
+    "from": "/us_testimonial/akiko-tanaka-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/akiko-tanaka-2"
+  },
+  {
+    "from": "/us_testimonial/akiko-tanaka",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/akiko-tanaka"
+  },
+  {
+    "from": "/us_testimonial/alessandro-rossi",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/alessandro-rossi"
+  },
+  {
+    "from": "/us_testimonial/amina-abdi",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/amina-abdi"
+  },
+  {
+    "from": "/us_testimonial/amina-suleiman-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/amina-suleiman-2"
+  },
+  {
+    "from": "/us_testimonial/amina-suleiman",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/amina-suleiman"
+  },
+  {
+    "from": "/us_testimonial/anastasia-smirnova",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/anastasia-smirnova"
+  },
+  {
+    "from": "/us_testimonial/anna-pavlova",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/anna-pavlova"
+  },
+  {
+    "from": "/us_testimonial/benjamin-wong",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/benjamin-wong"
+  },
+  {
+    "from": "/us_testimonial/brad-simpson",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/brad-simpson"
+  },
+  {
+    "from": "/us_testimonial/carlos-mendez-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/carlos-mendez-2"
+  },
+  {
+    "from": "/us_testimonial/carlos-mendez",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/carlos-mendez"
+  },
+  {
+    "from": "/us_testimonial/chen-wei-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/chen-wei-2"
+  },
+  {
+    "from": "/us_testimonial/chen-wei",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/chen-wei"
+  },
+  {
+    "from": "/us_testimonial/chris-taylor",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/chris-taylor"
+  },
+  {
+    "from": "/us_testimonial/cindy-mckenzie",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/cindy-mckenzie"
+  },
+  {
+    "from": "/us_testimonial/dimitri-ivanovich-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/dimitri-ivanovich-2"
+  },
+  {
+    "from": "/us_testimonial/dimitri-ivanovich",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/dimitri-ivanovich"
+  },
+  {
+    "from": "/us_testimonial/emilia-johansson",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/emilia-johansson"
+  },
+  {
+    "from": "/us_testimonial/enrique-gomez",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/enrique-gomez"
+  },
+  {
+    "from": "/us_testimonial/ericka-mcporter",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/ericka-mcporter"
+  },
+  {
+    "from": "/us_testimonial/fatima-el-hassan",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/fatima-el-hassan"
+  },
+  {
+    "from": "/us_testimonial/fatimah-hassan",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/fatimah-hassan"
+  },
+  {
+    "from": "/us_testimonial/flavia-manzon",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/flavia-manzon"
+  },
+  {
+    "from": "/us_testimonial/francois-dubois",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/francois-dubois"
+  },
+  {
+    "from": "/us_testimonial/giorgos-papadopoulos",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/giorgos-papadopoulos"
+  },
+  {
+    "from": "/us_testimonial/hideo-yamamoto",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/hideo-yamamoto"
+  },
+  {
+    "from": "/us_testimonial/hiroshi-nakamura",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/hiroshi-nakamura"
+  },
+  {
+    "from": "/us_testimonial/hume-leow",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/hume-leow"
+  },
+  {
+    "from": "/us_testimonial/ibrahim-kamara",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/ibrahim-kamara"
+  },
+  {
+    "from": "/us_testimonial/jacques-dupont-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jacques-dupont-2"
+  },
+  {
+    "from": "/us_testimonial/jacques-dupont",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jacques-dupont"
+  },
+  {
+    "from": "/us_testimonial/jacques-lemoine",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jacques-lemoine"
+  },
+  {
+    "from": "/us_testimonial/jason-delivine-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jason-delivine-2"
+  },
+  {
+    "from": "/us_testimonial/jason-delivine",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jason-delivine"
+  },
+  {
+    "from": "/us_testimonial/jennifer-schilling",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jennifer-schilling"
+  },
+  {
+    "from": "/us_testimonial/jenny-krysztofiak",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/jenny-krysztofiak"
+  },
+  {
+    "from": "/us_testimonial/john-armstrong-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/john-armstrong-2"
+  },
+  {
+    "from": "/us_testimonial/john-armstrong",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/john-armstrong"
+  },
+  {
+    "from": "/us_testimonial/julian-tang",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/julian-tang"
+  },
+  {
+    "from": "/us_testimonial/kate-willis",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/kate-willis"
+  },
+  {
+    "from": "/us_testimonial/lee-ji-hyun",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/lee-ji-hyun"
+  },
+  {
+    "from": "/us_testimonial/lena-schmidt",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/lena-schmidt"
+  },
+  {
+    "from": "/us_testimonial/li-na",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/li-na"
+  },
+  {
+    "from": "/us_testimonial/lisa-hawards",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/lisa-hawards"
+  },
+  {
+    "from": "/us_testimonial/mariam-njeri-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/mariam-njeri-2"
+  },
+  {
+    "from": "/us_testimonial/mariam-njeri",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/mariam-njeri"
+  },
+  {
+    "from": "/us_testimonial/marvin-richards",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/marvin-richards"
+  },
+  {
+    "from": "/us_testimonial/meena-patel",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/meena-patel"
+  },
+  {
+    "from": "/us_testimonial/miguel-santos",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/miguel-santos"
+  },
+  {
+    "from": "/us_testimonial/mikhail-andreev",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/mikhail-andreev"
+  },
+  {
+    "from": "/us_testimonial/natalie-williams",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/natalie-williams"
+  },
+  {
+    "from": "/us_testimonial/obi-mwangi",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/obi-mwangi"
+  },
+  {
+    "from": "/us_testimonial/pierre-lefevre",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/pierre-lefevre"
+  },
+  {
+    "from": "/us_testimonial/priya-raghavan-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/priya-raghavan-2"
+  },
+  {
+    "from": "/us_testimonial/priya-raghavan",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/priya-raghavan"
+  },
+  {
+    "from": "/us_testimonial/ramon-williams",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/ramon-williams"
+  },
+  {
+    "from": "/us_testimonial/ranjit-kaur",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/ranjit-kaur"
+  },
+  {
+    "from": "/us_testimonial/robert-harmon",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/robert-harmon"
+  },
+  {
+    "from": "/us_testimonial/sofia-rodriguez",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/sofia-rodriguez"
+  },
+  {
+    "from": "/us_testimonial/sophia-papadopoulos-2",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/sophia-papadopoulos-2"
+  },
+  {
+    "from": "/us_testimonial/sophia-papadopoulos",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/sophia-papadopoulos"
+  },
+  {
+    "from": "/us_testimonial/susan-langron",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/susan-langron"
+  },
+  {
+    "from": "/us_testimonial/vasilis-papadopoulos",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/vasilis-papadopoulos"
+  },
+  {
+    "from": "/us_testimonial/wang-lei",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/wang-lei"
+  },
+  {
+    "from": "/us_testimonial/wu-chen",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/wu-chen"
+  },
+  {
+    "from": "/us_testimonial/zara-hussein",
+    "to": "/about-us",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/us_testimonial/zara-hussein"
+  },
+  {
+    "from": "/6-reasons-youre-running-out-of-hot-water-plus-how-to-fix-it",
+    "to": "/hot-water-problems/not-hot-enough",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/6-reasons-youre-running-out-of-hot-water-plus-how-to-fix-it"
+  },
+  {
+    "from": "/are-you-fixing-hot-water-tank-issues-the-right-way",
+    "to": "/services/hot-water-repairs",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/are-you-fixing-hot-water-tank-issues-the-right-way"
+  },
+  {
+    "from": "/can-a-heat-pump-water-heater-be-installed-outside",
+    "to": "/resources/heat-pump-hot-water-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/can-a-heat-pump-water-heater-be-installed-outside"
+  },
+  {
+    "from": "/can-a-hot-water-heater-last-20-years",
+    "to": "/resources/how-long-do-hot-water-systems-last",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/can-a-hot-water-heater-last-20-years"
+  },
+  {
+    "from": "/can-a-hot-water-tank-burst",
+    "to": "/resources/hot-water-safety-checks",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/can-a-hot-water-tank-burst"
+  },
+  {
+    "from": "/can-aquamax-hot-water-troubleshooting-fix-common-heater-issues",
+    "to": "/brand/aquamax",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/can-aquamax-hot-water-troubleshooting-fix-common-heater-issues"
+  },
+  {
+    "from": "/can-you-repair-water-heater-leaks-yourself",
+    "to": "/hot-water-problems/hot-water-leaking",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/can-you-repair-water-heater-leaks-yourself"
+  },
+  {
+    "from": "/can-you-use-a-tankless-water-heater-for-multiple-bathrooms",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/can-you-use-a-tankless-water-heater-for-multiple-bathrooms"
+  },
+  {
+    "from": "/commercial-hot-water-sydney-businesses",
+    "to": "/services/commercial-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/commercial-hot-water-sydney-businesses"
+  },
+  {
+    "from": "/does-hot-water-system-capacity-affect-heating-speed",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/does-hot-water-system-capacity-affect-heating-speed"
+  },
+  {
+    "from": "/does-the-age-of-your-hot-water-system-affect-its-performance",
+    "to": "/resources/how-long-do-hot-water-systems-last",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/does-the-age-of-your-hot-water-system-affect-its-performance"
+  },
+  {
+    "from": "/electric-hot-water-unit-installation-mistakes-sydney-homes",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/electric-hot-water-unit-installation-mistakes-sydney-homes"
+  },
+  {
+    "from": "/five-myths-about-gas-hot-water-systems-sydney-homeowners-still-believe-in-2026",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/five-myths-about-gas-hot-water-systems-sydney-homeowners-still-believe-in-2026"
+  },
+  {
+    "from": "/gas-continuous-flow-vs-electric-tank-which-gives-better-shower-pressure-and-reliability-in-sydney",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/gas-continuous-flow-vs-electric-tank-which-gives-better-shower-pressure-and-reliability-in-sydney"
+  },
+  {
+    "from": "/gas-hot-water-safety-checks-odour-ventilation-carbon-monoxide-risks-sydney",
+    "to": "/resources/hot-water-safety-checks",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/gas-hot-water-safety-checks-odour-ventilation-carbon-monoxide-risks-sydney"
+  },
+  {
+    "from": "/gas-vs-electric-which-hot-water-system-costs-less-to-maintain-in-2026",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/gas-vs-electric-which-hot-water-system-costs-less-to-maintain-in-2026"
+  },
+  {
+    "from": "/gas-vs-heat-pump-hot-water-running-cost-sydney",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/gas-vs-heat-pump-hot-water-running-cost-sydney"
+  },
+  {
+    "from": "/heat-pump-hot-water-sydney-apartments",
+    "to": "/resources/heat-pump-hot-water-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/heat-pump-hot-water-sydney-apartments"
+  },
+  {
+    "from": "/hot-water-not-heating-properly-in-sydney-homes-likely-causes-and-early-warning-signs",
+    "to": "/hot-water-problems/not-hot-enough",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-not-heating-properly-in-sydney-homes-likely-causes-and-early-warning-signs"
+  },
+  {
+    "from": "/hot-water-system-breakdown-repair-or-replace",
+    "to": "/resources/repair-or-replace-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-system-breakdown-repair-or-replace"
+  },
+  {
+    "from": "/hot-water-system-installation-cost-sydney-2026",
+    "to": "/guides/hot-water-installation-costs-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-system-installation-cost-sydney-2026"
+  },
+  {
+    "from": "/hot-water-system-leaking",
+    "to": "/hot-water-problems/hot-water-leaking",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-system-leaking"
+  },
+  {
+    "from": "/hot-water-system-lifespans-in-2026-clear-signs-yours-is-nearing-the-end-and-what-to-do-next",
+    "to": "/resources/how-long-do-hot-water-systems-last",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-system-lifespans-in-2026-clear-signs-yours-is-nearing-the-end-and-what-to-do-next"
+  },
+  {
+    "from": "/hot-water-system-sizing-mistakes-sydney",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-system-sizing-mistakes-sydney"
+  },
+  {
+    "from": "/hot-water-system-smells-whats-normal-whats-not-what-to-do-sydney-guide",
+    "to": "/hot-water-problems/smells-and-noises",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-system-smells-whats-normal-whats-not-what-to-do-sydney-guide"
+  },
+  {
+    "from": "/hot-water-unit-repair-vs-replace-sydney",
+    "to": "/resources/repair-or-replace-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/hot-water-unit-repair-vs-replace-sydney"
+  },
+  {
+    "from": "/how-can-you-prevent-a-hot-water-heater-from-rusting",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-can-you-prevent-a-hot-water-heater-from-rusting"
+  },
+  {
+    "from": "/how-do-energy-efficient-water-tanks-cut-power-costs",
+    "to": "/resources/heat-pump-hot-water-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-do-energy-efficient-water-tanks-cut-power-costs"
+  },
+  {
+    "from": "/how-do-heat-transfers-occur-in-a-hot-water-system",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-do-heat-transfers-occur-in-a-hot-water-system"
+  },
+  {
+    "from": "/how-do-you-change-a-heating-element-in-a-hot-water-tank",
+    "to": "/hot-water-problems/electric-hot-water-not-working",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-do-you-change-a-heating-element-in-a-hot-water-tank"
+  },
+  {
+    "from": "/how-does-maintenance-cut-your-hot-water-repair-cost",
+    "to": "/services/hot-water-servicing",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-does-maintenance-cut-your-hot-water-repair-cost"
+  },
+  {
+    "from": "/how-does-tankless-water-heaters-works",
+    "to": "/product-category/instant-gas",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-does-tankless-water-heaters-works"
+  },
+  {
+    "from": "/how-long-should-your-hot-water-unit-last-lifespan-clues-sydney-homeowners-shouldnt-ignore",
+    "to": "/resources/how-long-do-hot-water-systems-last",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-long-should-your-hot-water-unit-last-lifespan-clues-sydney-homeowners-shouldnt-ignore"
+  },
+  {
+    "from": "/how-much-can-evo-heat-pumps-save-on-bills",
+    "to": "/resources/heat-pump-hot-water-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-much-can-evo-heat-pumps-save-on-bills"
+  },
+  {
+    "from": "/how-to-choose-the-right-hot-water-system-size-for-a-sydney-household",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-to-choose-the-right-hot-water-system-size-for-a-sydney-household"
+  },
+  {
+    "from": "/how-to-fix-a-gas-hot-water-heater-that-isnt-working",
+    "to": "/hot-water-problems/gas-hot-water-not-working",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-to-fix-a-gas-hot-water-heater-that-isnt-working"
+  },
+  {
+    "from": "/how-to-handle-inconsistent-water-temperature-using-evoheat",
+    "to": "/hot-water-problems/not-hot-enough",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-to-handle-inconsistent-water-temperature-using-evoheat"
+  },
+  {
+    "from": "/how-to-have-a-long-lasting-water-heater",
+    "to": "/resources/how-long-do-hot-water-systems-last",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-to-have-a-long-lasting-water-heater"
+  },
+  {
+    "from": "/how-to-identify-and-fix-hot-water-system-valve-issues",
+    "to": "/guides/tpr-valve",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/how-to-identify-and-fix-hot-water-system-valve-issues"
+  },
+  {
+    "from": "/importance-of-checking-your-thermann-water-heaters-anode-rod",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/importance-of-checking-your-thermann-water-heaters-anode-rod"
+  },
+  {
+    "from": "/is-a-compact-hot-water-system-suitable-for-small-apartments",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-a-compact-hot-water-system-suitable-for-small-apartments"
+  },
+  {
+    "from": "/is-diy-flushing-effective-for-water-heater-maintenance",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-diy-flushing-effective-for-water-heater-maintenance"
+  },
+  {
+    "from": "/is-diy-rheem-installation-safe-for-homeowners",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-diy-rheem-installation-safe-for-homeowners"
+  },
+  {
+    "from": "/is-installing-a-recirculating-pump-for-quicker-hot-water-viable",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-installing-a-recirculating-pump-for-quicker-hot-water-viable"
+  },
+  {
+    "from": "/is-it-better-to-repair-a-hot-water-heater-leak-or-replace-it",
+    "to": "/resources/repair-or-replace-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-it-better-to-repair-a-hot-water-heater-leak-or-replace-it"
+  },
+  {
+    "from": "/is-it-possible-to-pump-water-with-a-temperature-difference-hot-water-installation",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-it-possible-to-pump-water-with-a-temperature-difference-hot-water-installation"
+  },
+  {
+    "from": "/is-solar-hot-water-installation-smarter-than-gas-or-electric",
+    "to": "/services/solar-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-solar-hot-water-installation-smarter-than-gas-or-electric"
+  },
+  {
+    "from": "/is-switching-to-an-electric-hot-water-system-in-2026-still-the-smartest-move-for-sydney-homes",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-switching-to-an-electric-hot-water-system-in-2026-still-the-smartest-move-for-sydney-homes"
+  },
+  {
+    "from": "/is-there-a-way-to-prevent-scale-up-in-a-water-heater",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-there-a-way-to-prevent-scale-up-in-a-water-heater"
+  },
+  {
+    "from": "/is-your-hot-water-system-actually-broken-quick-2026-troubleshooting-steps-for-sydney-homes",
+    "to": "/hot-water-problems",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-your-hot-water-system-actually-broken-quick-2026-troubleshooting-steps-for-sydney-homes"
+  },
+  {
+    "from": "/is-your-hot-water-unit-unsafe-sydney-red-flags",
+    "to": "/resources/hot-water-safety-checks",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/is-your-hot-water-unit-unsafe-sydney-red-flags"
+  },
+  {
+    "from": "/rheem-vs-rinnai-vs-dux-hot-water-sydney",
+    "to": "/resources/hot-water-brands-compared",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/rheem-vs-rinnai-vs-dux-hot-water-sydney"
+  },
+  {
+    "from": "/save-energy-with-tankless-water-heater",
+    "to": "/product-category/instant-gas",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/save-energy-with-tankless-water-heater"
+  },
+  {
+    "from": "/should-you-drain-your-hot-water-heater-every-year",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/should-you-drain-your-hot-water-heater-every-year"
+  },
+  {
+    "from": "/silent-signs-your-hot-water-system-is-a-safety-risk",
+    "to": "/resources/hot-water-safety-checks",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/silent-signs-your-hot-water-system-is-a-safety-risk"
+  },
+  {
+    "from": "/sydney-water-heater-lifespan-warning-signs-nearing-end-of-life",
+    "to": "/resources/how-long-do-hot-water-systems-last",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/sydney-water-heater-lifespan-warning-signs-nearing-end-of-life"
+  },
+  {
+    "from": "/sydney-winter-shower-goes-cold-check-first",
+    "to": "/hot-water-problems/not-hot-enough",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/sydney-winter-shower-goes-cold-check-first"
+  },
+  {
+    "from": "/tankless-water-heaters-a-buyers-guide",
+    "to": "/product-category/instant-gas",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/tankless-water-heaters-a-buyers-guide"
+  },
+  {
+    "from": "/temperature-should-i-set-for-my-water-heater",
+    "to": "/guides/tempering-valve",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/temperature-should-i-set-for-my-water-heater"
+  },
+  {
+    "from": "/the-basics-of-underground-natural-gas-storage",
+    "to": "/product-category/gas",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/the-basics-of-underground-natural-gas-storage"
+  },
+  {
+    "from": "/water-heater-issues-and-maintenance",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/water-heater-issues-and-maintenance"
+  },
+  {
+    "from": "/water-heater-safety",
+    "to": "/resources/hot-water-safety-checks",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/water-heater-safety"
+  },
+  {
+    "from": "/what-are-the-advantages-of-electric-water-heaters",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-are-the-advantages-of-electric-water-heaters"
+  },
+  {
+    "from": "/what-are-the-main-reasons-for-a-electric-water-heater-to-leak",
+    "to": "/hot-water-problems/hot-water-leaking",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-are-the-main-reasons-for-a-electric-water-heater-to-leak"
+  },
+  {
+    "from": "/what-are-the-pros-and-cons-of-tankless-water-heaters",
+    "to": "/product-category/instant-gas",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-are-the-pros-and-cons-of-tankless-water-heaters"
+  },
+  {
+    "from": "/what-are-the-signs-that-a-water-heater-needs-replacing",
+    "to": "/resources/repair-or-replace-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-are-the-signs-that-a-water-heater-needs-replacing"
+  },
+  {
+    "from": "/what-are-the-signs-that-your-hot-water-system-needs-repair",
+    "to": "/services/hot-water-repairs",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-are-the-signs-that-your-hot-water-system-needs-repair"
+  },
+  {
+    "from": "/what-are-the-signs-that-your-hot-water-tank-need-replacement",
+    "to": "/resources/repair-or-replace-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-are-the-signs-that-your-hot-water-tank-need-replacement"
+  },
+  {
+    "from": "/what-causes-a-water-heaters-relief-valve-to-discharge-water",
+    "to": "/guides/tpr-valve",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-causes-a-water-heaters-relief-valve-to-discharge-water"
+  },
+  {
+    "from": "/what-causes-and-solves-noisy-water-heaters",
+    "to": "/hot-water-problems/smells-and-noises",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-causes-and-solves-noisy-water-heaters"
+  },
+  {
+    "from": "/what-causes-loss-of-heat-in-a-hot-water-system",
+    "to": "/hot-water-problems/not-hot-enough",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-causes-loss-of-heat-in-a-hot-water-system"
+  },
+  {
+    "from": "/what-is-a-heat-pump-and-how-does-it-work",
+    "to": "/resources/heat-pump-hot-water-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-is-a-heat-pump-and-how-does-it-work"
+  },
+  {
+    "from": "/what-is-a-heat-pump-and-why-are-they-more-efficient",
+    "to": "/resources/heat-pump-hot-water-explained",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-is-a-heat-pump-and-why-are-they-more-efficient"
+  },
+  {
+    "from": "/what-is-a-tankless-water-heater-installation",
+    "to": "/product-category/instant-gas",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-is-a-tankless-water-heater-installation"
+  },
+  {
+    "from": "/what-is-the-evo-heat-pump-and-how-it-will-work",
+    "to": "/brand/evoheat",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-is-the-evo-heat-pump-and-how-it-will-work"
+  },
+  {
+    "from": "/what-is-the-main-purpose-of-an-expansion-tank",
+    "to": "/guides/pressure-limiting-valve",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-is-the-main-purpose-of-an-expansion-tank"
+  },
+  {
+    "from": "/what-rheem-water-heater-problems-should-you-never-ignore",
+    "to": "/brand/rheem",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-rheem-water-heater-problems-should-you-never-ignore"
+  },
+  {
+    "from": "/what-should-you-consider-before-installing-a-gas-hot-water-system",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-should-you-consider-before-installing-a-gas-hot-water-system"
+  },
+  {
+    "from": "/what-size-hot-water-system-do-you-need-a-practical-household-sizing-guide-for-sydney-homes",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-size-hot-water-system-do-you-need-a-practical-household-sizing-guide-for-sydney-homes"
+  },
+  {
+    "from": "/what-size-hot-water-unit-do-sydney-families-really-need-in-2026-a-no-nonsense-sizing-guide",
+    "to": "/resources/what-size-hot-water-system",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-size-hot-water-unit-do-sydney-families-really-need-in-2026-a-no-nonsense-sizing-guide"
+  },
+  {
+    "from": "/what-steps-to-take-to-get-water-heating-systems-ready-for-spring",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-steps-to-take-to-get-water-heating-systems-ready-for-spring"
+  },
+  {
+    "from": "/what-things-should-you-consider-before-a-water-heater-installation",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-things-should-you-consider-before-a-water-heater-installation"
+  },
+  {
+    "from": "/what-to-consider-when-choosing-hot-water-brands",
+    "to": "/resources/hot-water-brands-compared",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-to-consider-when-choosing-hot-water-brands"
+  },
+  {
+    "from": "/what-to-do-when-theres-no-sizzling-water-coming-out-broken-water-heater",
+    "to": "/hot-water-problems/no-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-to-do-when-theres-no-sizzling-water-coming-out-broken-water-heater"
+  },
+  {
+    "from": "/what-type-of-hot-water-system-is-best-for-your-home",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/what-type-of-hot-water-system-is-best-for-your-home"
+  },
+  {
+    "from": "/when-is-it-necessary-to-flush-and-descale-your-hot-water-heater",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/when-is-it-necessary-to-flush-and-descale-your-hot-water-heater"
+  },
+  {
+    "from": "/when-should-you-insulate-a-water-heater",
+    "to": "/resources/hot-water-maintenance-guide",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/when-should-you-insulate-a-water-heater"
+  },
+  {
+    "from": "/when-to-replace-a-water-heater",
+    "to": "/resources/repair-or-replace-hot-water",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/when-to-replace-a-water-heater"
+  },
+  {
+    "from": "/why-do-older-homes-have-recurring-hot-water-system-issues",
+    "to": "/hot-water-problems",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-do-older-homes-have-recurring-hot-water-system-issues"
+  },
+  {
+    "from": "/why-does-my-thermostat-say-check-system",
+    "to": "/hot-water-problems",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-does-my-thermostat-say-check-system"
+  },
+  {
+    "from": "/why-is-installing-a-hot-water-cylinder-a-smart-home-upgrade",
+    "to": "/services/hot-water-installation",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-is-installing-a-hot-water-cylinder-a-smart-home-upgrade"
+  },
+  {
+    "from": "/why-is-the-exhaust-pipe-on-your-hot-water-heater-leaking",
+    "to": "/hot-water-problems/hot-water-leaking",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-is-the-exhaust-pipe-on-your-hot-water-heater-leaking"
+  },
+  {
+    "from": "/why-is-your-water-heater-leaking-from-the-thermostat-panel",
+    "to": "/hot-water-problems/hot-water-leaking",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-is-your-water-heater-leaking-from-the-thermostat-panel"
+  },
+  {
+    "from": "/why-rheem-hot-water-system-runs-out-quickly",
+    "to": "/hot-water-problems/not-hot-enough",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-rheem-hot-water-system-runs-out-quickly"
+  },
+  {
+    "from": "/why-should-you-avoid-changing-a-water-heater-yourself",
+    "to": "/services/hot-water-system-replacement",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-should-you-avoid-changing-a-water-heater-yourself"
+  },
+  {
+    "from": "/why-should-you-compare-hot-water-systems-before-buying",
+    "to": "/resources/gas-vs-electric-vs-heat-pump",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-should-you-compare-hot-water-systems-before-buying"
+  },
+  {
+    "from": "/why-thermann-electric-hot-water-heater-trips-circuit-breaker",
+    "to": "/hot-water-problems/electric-hot-water-not-working",
+    "code": 301,
+    "at": "2026-11-13T05:39:31.892Z",
+    "fromRaw": "/why-thermann-electric-hot-water-heater-trips-circuit-breaker"
   }
 ]

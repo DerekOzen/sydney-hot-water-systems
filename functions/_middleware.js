@@ -23,6 +23,13 @@ export async function onRequest(context) {
     });
   }
 
+  // 1) Send the Cloudflare *.pages.dev duplicate address to the live domain (301).
+  if (url.hostname.endsWith(".pages.dev")) {
+    url.protocol = "https:";
+    url.hostname = "sydneyhotwatersystems.com.au";
+    return Response.redirect(url.toString(), 301);
+  }
+
   const res = await next();
   if (res.status !== 404) return res;
 
