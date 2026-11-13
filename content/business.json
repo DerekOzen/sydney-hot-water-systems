@@ -3,5 +3,19 @@
   "legalName": "Sydney Hot Water Systems",
   "phone": "1300 096 668",
   "url": "https://sydneyhotwatersystems.com.au/",
-  "email": "info@sydneyhotwatersystems.com.au"
+  "email": "info@sydneyhotwatersystems.com.au",
+  "streetAddress": "93B John St",
+  "suburb": "Lidcombe",
+  "state": "NSW",
+  "postcode": "2141",
+  "country": "AU",
+  "areaServed": "Sydney",
+  "openingHours": "24 Hours",
+  "priceRange": "$$-$$$$",
+  "latitude": "-33.855873658503874",
+  "longitude": "151.0465669",
+  "logo": "https://sydneyhotwatersystems.com.au/uploads/final-logo-2-300x122-1-0f668241.webp",
+  "image": "https://sydneyhotwatersystems.com.au/uploads/home-01-rheem-heat-pump-hot-water-system-installed-bes.jpg",
+  "facebook": "https://www.facebook.com/sydneysystems",
+  "instagram": "https://www.instagram.com/sydneyhotwatersystems.com.au/"
 }
