@@ -3027,9 +3027,11 @@
     "status": "published",
     "createdAt": "2026-11-11T22:38:52.241Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua",
-    "isHome": true
+    "updatedAt": "2026-11-13T05:47:52.051Z",
+    "updatedBy": "sebastian",
+    "isHome": true,
+    "featuredImage": "/uploads/home-01-rheem-heat-pump-hot-water-system-installed-bes.jpg",
+    "featuredImageAlt": "Rheem heat pump hot water system installed beside a modern Sydney home at sunset"
   },
   {
     "id": "pg-262",
