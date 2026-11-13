@@ -2709,8 +2709,10 @@
     "status": "published",
     "createdAt": "2026-11-11T22:01:15.815Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T05:51:59.297Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/hot-water-northern-beaches.jpg",
+    "featuredImageAlt": "Licensed plumber servicing a hot water system in the Northern Beaches"
   },
   {
     "id": "pg-242",
