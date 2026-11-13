@@ -1,5 +1,5 @@
 {
   "header": "",
   "body": "",
-  "footer": ""
+  "footer": "<script >\nwindow.addEventListener('load', function () {\n    var x = 0;\n    var timer = setInterval(function () {\n        var confirmation = document.querySelector('.wpforms-confirmation-container-full');\n        if (\n            confirmation &&\n            confirmation.getClientRects().length > 0 &&\n            window.getComputedStyle(confirmation).visibility !== 'hidden'\n        ) {\n            if (x === 0) {\n                gtag('event', 'ga4_ga__forms_on_website_', {\n                    event_category: 'form',\n                    event_label: window.location.pathname\n                });\n                x = 1;\n            }\n            clearInterval(timer);\n        }\n    }, 250);\n\n    // Track telephone link clicks\n    document.querySelectorAll('a[href]').forEach(function (link) {\n        var href = link.getAttribute('href') || '';\n        if (href.toLowerCase().startsWith('tel:')) {\n            link.addEventListener('click', function () {\n                gtag('event', 'ga4_ga__calls_on_website_', {\n                    event_category: 'number',\n                    event_label: this.getAttribute('href')\n                });\n            });\n        }\n    });\n});\n</script>"
 }
