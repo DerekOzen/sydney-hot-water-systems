@@ -3215,8 +3215,10 @@
     "status": "published",
     "createdAt": "2026-11-11T23:33:09.037Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-13T05:52:41.698Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/hot-water-western-sydney.jpg",
+    "featuredImageAlt": "Licensed plumber servicing a hot water system in Western Sydney"
   },
   {
     "id": "pg-272",
