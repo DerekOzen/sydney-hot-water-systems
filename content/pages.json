@@ -2365,8 +2365,10 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T23:27:32.316Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/solar-hot-water-hero.jpg",
+    "featuredImageAlt": "Solar hot water collectors on the roof of a Sydney home"
   },
   {
     "id": "pg-209",
