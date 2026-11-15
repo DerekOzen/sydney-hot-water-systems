@@ -2331,8 +2331,10 @@
     "status": "published",
     "createdAt": "2026-11-11T20:24:39.757Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T23:26:24.669Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/services-hero.jpg",
+    "featuredImageAlt": "Licensed hot water team working across installation, repair and replacement in Sydney"
   },
   {
     "id": "pg-207",
