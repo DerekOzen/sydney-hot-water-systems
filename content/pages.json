@@ -334,8 +334,10 @@
     "category": "Product",
     "createdAt": "2026-11-11T19:17:36.036Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T22:21:06.463Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/rheem-135l-internal-gas-storage-hot-water-system-indoor.jpg",
+    "featuredImageAlt": "Rheem 135L Internal Gas Storage Hot Water System, Indoor"
   },
   {
     "id": "pg-100",
