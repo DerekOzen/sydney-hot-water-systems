@@ -416,8 +416,10 @@
     "category": "Product",
     "createdAt": "2026-11-11T19:18:03.367Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T22:27:15.855Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/rinnai-135l-hotflo-gas-storage-hot-water-system.jpg",
+    "featuredImageAlt": "Rinnai 135L Hotflo Gas Storage Hot Water System"
   },
   {
     "id": "pg-104",
