@@ -579,8 +579,10 @@
     "category": "Product",
     "createdAt": "2026-11-11T19:24:07.665Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T22:26:06.808Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/rheem-50l-electric-hot-water-system.jpg",
+    "featuredImageAlt": "Rheem 50L Electric Hot Water System"
   },
   {
     "id": "pg-113",
