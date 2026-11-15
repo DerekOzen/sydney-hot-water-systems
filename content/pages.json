@@ -2203,8 +2203,10 @@
     "status": "published",
     "createdAt": "2026-11-11T20:22:55.342Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T23:26:31.624Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/commercial-hot-water-hero.jpg",
+    "featuredImageAlt": "Bank of continuous-flow commercial hot water units installed at a Sydney business"
   },
   {
     "id": "pg-199",
