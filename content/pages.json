@@ -3484,9 +3484,11 @@
     "status": "published",
     "createdAt": "2026-11-12T02:22:51.134Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua",
-    "category": "Product"
+    "updatedAt": "2026-11-15T22:32:24.874Z",
+    "updatedBy": "sebastian",
+    "category": "Product",
+    "featuredImage": "/uploads/thermann-6-20l-c-flow-50deg-n-g.jpg",
+    "featuredImageAlt": "Thermann 6★ 20L Continuous Flow Gas Hot Water System, 50° Natural Gas"
   },
   {
     "id": "pg-271",
