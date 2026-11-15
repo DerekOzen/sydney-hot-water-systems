@@ -726,8 +726,10 @@
     "category": "Product",
     "createdAt": "2026-11-11T19:24:34.248Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:01:00.904Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T22:31:49.235Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/thermann-25l-hot-water-system-electric.jpg",
+    "featuredImageAlt": "Thermann 25L Electric Hot Water System"
   },
   {
     "id": "pg-120",
