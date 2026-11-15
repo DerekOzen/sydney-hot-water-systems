@@ -1960,8 +1960,10 @@
     "category": "Product",
     "createdAt": "2026-11-11T19:29:55.887Z",
     "createdBy": "derek",
-    "updatedAt": "2026-11-12T05:33:57.603Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-15T22:31:29.869Z",
+    "updatedBy": "sebastian",
+    "featuredImage": "/uploads/rinnai-remote-control.jpg",
+    "featuredImageAlt": "Rinnai Remote Control"
   },
   {
     "id": "pg-186",
