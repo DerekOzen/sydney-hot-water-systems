@@ -1,6 +1,301 @@
 {
   "batches": [
     {
+      "batchId": "csg-mwk1xdvj-pfkw",
+      "at": "2026-11-17T02:06:45.631Z",
+      "count": 72,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-64757C0F"
+        },
+        {
+          "path": "/services/commercial-hot-water-system",
+          "newRecordId": "SCHEMA-5D2FF788"
+        },
+        {
+          "path": "/services/commercial-hot-water-system-strata",
+          "newRecordId": "SCHEMA-40926AB1"
+        },
+        {
+          "path": "/services/emergency-hot-water-repairs",
+          "newRecordId": "SCHEMA-27207228"
+        },
+        {
+          "path": "/services/hot-water-installation",
+          "newRecordId": "SCHEMA-D32EA378"
+        },
+        {
+          "path": "/services/hot-water-rebates-nsw",
+          "newRecordId": "SCHEMA-9C74566C"
+        },
+        {
+          "path": "/services/hot-water-repairs",
+          "newRecordId": "SCHEMA-F2BDDD7E"
+        },
+        {
+          "path": "/services/hot-water-servicing",
+          "newRecordId": "SCHEMA-8197D51B"
+        },
+        {
+          "path": "/services/hot-water-system-replacement",
+          "newRecordId": "SCHEMA-F6C59696"
+        },
+        {
+          "path": "/services",
+          "newRecordId": "SCHEMA-DBA54C5D"
+        },
+        {
+          "path": "/services/solar-hot-water",
+          "newRecordId": "SCHEMA-451CCB40"
+        },
+        {
+          "path": "/brand/aquamax",
+          "newRecordId": "SCHEMA-A96A4683"
+        },
+        {
+          "path": "/brand/dux",
+          "newRecordId": "SCHEMA-97FD4D9D"
+        },
+        {
+          "path": "/brand/evoheat",
+          "newRecordId": "SCHEMA-6A8657D9"
+        },
+        {
+          "path": "/brand/rheem",
+          "newRecordId": "SCHEMA-F77D2DCB"
+        },
+        {
+          "path": "/brand/rinnai",
+          "newRecordId": "SCHEMA-BD7F8649"
+        },
+        {
+          "path": "/brand/thermann",
+          "newRecordId": "SCHEMA-E246D291"
+        },
+        {
+          "path": "/product-category/electric",
+          "newRecordId": "SCHEMA-B40B045B"
+        },
+        {
+          "path": "/product-category/gas",
+          "newRecordId": "SCHEMA-7C44A9E0"
+        },
+        {
+          "path": "/product-category/heat-pump",
+          "newRecordId": "SCHEMA-AC94FA42"
+        },
+        {
+          "path": "/product-category/hotflo-electric",
+          "newRecordId": "SCHEMA-CCDBA795"
+        },
+        {
+          "path": "/product-category/hotflo-gas",
+          "newRecordId": "SCHEMA-59BCAE79"
+        },
+        {
+          "path": "/product-category/infinity",
+          "newRecordId": "SCHEMA-87AF4650"
+        },
+        {
+          "path": "/product-category/instant-gas",
+          "newRecordId": "SCHEMA-5D41D962"
+        },
+        {
+          "path": "/product-category/proflo-electric-storage",
+          "newRecordId": "SCHEMA-36857CD7"
+        },
+        {
+          "path": "/product-category/proflo-gas-storage",
+          "newRecordId": "SCHEMA-98F20601"
+        },
+        {
+          "path": "/product-category/stainless-steel-gas-storage",
+          "newRecordId": "SCHEMA-072AC73C"
+        },
+        {
+          "path": "/product-category/stellar-electric-storage",
+          "newRecordId": "SCHEMA-94656349"
+        },
+        {
+          "path": "/product-category/stellar-gas-storage",
+          "newRecordId": "SCHEMA-1428BF39"
+        },
+        {
+          "path": "/hot-water-problems/electric-hot-water-not-working",
+          "newRecordId": "SCHEMA-741C53D0"
+        },
+        {
+          "path": "/hot-water-problems/gas-hot-water-not-working",
+          "newRecordId": "SCHEMA-B555B154"
+        },
+        {
+          "path": "/hot-water-problems/hot-water-leaking",
+          "newRecordId": "SCHEMA-70F58026"
+        },
+        {
+          "path": "/hot-water-problems",
+          "newRecordId": "SCHEMA-70F7367D"
+        },
+        {
+          "path": "/hot-water-problems/low-hot-water-pressure",
+          "newRecordId": "SCHEMA-51803FD2"
+        },
+        {
+          "path": "/hot-water-problems/no-hot-water",
+          "newRecordId": "SCHEMA-0253B3A3"
+        },
+        {
+          "path": "/hot-water-problems/not-hot-enough",
+          "newRecordId": "SCHEMA-A9F03367"
+        },
+        {
+          "path": "/hot-water-problems/smells-and-noises",
+          "newRecordId": "SCHEMA-0C6DAE38"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-western-sydney/hot-water-blacktown",
+          "newRecordId": "SCHEMA-49979560"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-canterbury-bankstown",
+          "newRecordId": "SCHEMA-F86AD742"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-eastern-suburbs",
+          "newRecordId": "SCHEMA-DE48E1F2"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-inner-west",
+          "newRecordId": "SCHEMA-36F46F09"
+        },
+        {
+          "path": "/locations",
+          "newRecordId": "SCHEMA-6B8F6068"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-northern-beaches",
+          "newRecordId": "SCHEMA-BE53101D"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-north-shore",
+          "newRecordId": "SCHEMA-99268DBE"
+        },
+        {
+          "path": "/locations/nsw",
+          "newRecordId": "SCHEMA-7BB3EAF1"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-parramatta-cumberland",
+          "newRecordId": "SCHEMA-943F867D"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-western-sydney/hot-water-penrith",
+          "newRecordId": "SCHEMA-E3B3EDFF"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-south-west-sydney",
+          "newRecordId": "SCHEMA-F41FAC62"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-st-george-sutherland",
+          "newRecordId": "SCHEMA-91556E45"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-the-hills",
+          "newRecordId": "SCHEMA-F5824AF2"
+        },
+        {
+          "path": "/resources/gas-vs-electric-vs-heat-pump",
+          "newRecordId": "SCHEMA-857400FB"
+        },
+        {
+          "path": "/resources/heat-pump-hot-water-explained",
+          "newRecordId": "SCHEMA-DAB70826"
+        },
+        {
+          "path": "/resources/hot-water-brands-compared",
+          "newRecordId": "SCHEMA-E5567FA0"
+        },
+        {
+          "path": "/guides/hot-water-installation-costs-explained",
+          "newRecordId": "SCHEMA-A1F7EFD4"
+        },
+        {
+          "path": "/resources/hot-water-maintenance-guide",
+          "newRecordId": "SCHEMA-2894D6E4"
+        },
+        {
+          "path": "/resources/hot-water-safety-checks",
+          "newRecordId": "SCHEMA-B638E265"
+        },
+        {
+          "path": "/resources/hot-water-system-cost-guide-sydney",
+          "newRecordId": "SCHEMA-EE9A403A"
+        },
+        {
+          "path": "/resources/how-long-do-hot-water-systems-last",
+          "newRecordId": "SCHEMA-81153E86"
+        },
+        {
+          "path": "/resources/nsw-hot-water-rebates-explained",
+          "newRecordId": "SCHEMA-DA400D11"
+        },
+        {
+          "path": "/guides/pressure-limiting-valve",
+          "newRecordId": "SCHEMA-52E6CAE8"
+        },
+        {
+          "path": "/resources/repair-or-replace-hot-water",
+          "newRecordId": "SCHEMA-C0CD66B8"
+        },
+        {
+          "path": "/guides/tempering-valve",
+          "newRecordId": "SCHEMA-9D52835D"
+        },
+        {
+          "path": "/guides/tpr-valve",
+          "newRecordId": "SCHEMA-2EB9B356"
+        },
+        {
+          "path": "/resources/what-size-hot-water-system",
+          "newRecordId": "SCHEMA-AED67BE4"
+        },
+        {
+          "path": "/about-us",
+          "newRecordId": "SCHEMA-3C35704F"
+        },
+        {
+          "path": "/contact-us",
+          "newRecordId": "SCHEMA-056FC85F"
+        },
+        {
+          "path": "/privacy-policy",
+          "newRecordId": "SCHEMA-7735E29F"
+        },
+        {
+          "path": "/shipping-return-policy",
+          "newRecordId": "SCHEMA-9976A918"
+        },
+        {
+          "path": "/terms-and-conditions",
+          "newRecordId": "SCHEMA-015214A5"
+        },
+        {
+          "path": "/warranty-and-service-policy",
+          "newRecordId": "SCHEMA-05448225"
+        },
+        {
+          "path": "/locations/nsw/hot-water-repairs-western-sydney",
+          "newRecordId": "SCHEMA-36B5A82F"
+        },
+        {
+          "path": "/hot-water-systems",
+          "newRecordId": "SCHEMA-3DCB230C"
+        }
+      ]
+    },
+    {
       "batchId": "csg-mwjxcsfq-9tqg",
       "at": "2026-11-16T23:58:46.262Z",
       "count": 72,
