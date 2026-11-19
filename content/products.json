@@ -1,0 +1,10 @@
+{
+  "pg-130": {
+    "price": 777,
+    "salePrice": null,
+    "sku": "89284",
+    "brand": "",
+    "category": "Product",
+    "stock": "instock"
+  }
+}
