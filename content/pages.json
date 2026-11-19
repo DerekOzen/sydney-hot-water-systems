@@ -3588,16 +3588,18 @@
     "id": "pg-193",
     "path": "/hot-water-systems",
     "type": "page",
-    "title": "Hot Water Systems Shop Inline",
-    "seoTitle": "Hot Water Systems Shop Inline",
-    "seoDescription": "",
+    "title": "Hot Water Systems — Supplied & Installed Sydney",
+    "seoTitle": "Hot Water Systems — Supplied & Installed Sydney",
+    "seoDescription": "Browse gas, electric, solar and heat pump hot water systems, supplied and installed across Sydney at a fixed price. Add to Quote for installed pricing — no cart, no deposit.",
     "layout": "mockup",
     "headerPartId": "header-3",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-19T06:44:14.172Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-19T06:44:14.172Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-19T07:08:20.866Z",
+    "updatedBy": "joshua",
+    "featuredImageAlt": "Rheem 26L Metro Continuous Flow Gas Hot Water System, 60 Degree",
+    "featuredImage": "/uploads/rheem-compact-25l-electric-hot-water-sytem.jpg"
   }
 ]
